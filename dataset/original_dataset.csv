@@ -1,0 +1,1322 @@
+assured_age,nominee_relation,occupation,policy sumassured,premium,premiumpaymentmode,annual income,holdermaritalstatus,indiv_requirementflag,policy term,policy payment term,product type,channel,fraud category
+20,mother,service,"  1,200,000 ","  120,000 ",quarterly,"  420,000 ",single,non medical,10,10,ulip,retail agency,misrepresentation
+33,husband,service,"  350,000 ","  5,000 ",yearly,"  180,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+34,wife,self-employed,"  350,000 ","  5,000 ",yearly,"  249,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+34,wife,service,"  325,000 ","  5,000 ",yearly,"  360,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+54,husband,housewife,"  100,000 ","  5,000 ",yearly,"  600,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+45,son,agriculturist,"  175,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+32,husband,business,"  350,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+46,son,service,"  500,000 ","  50,000 ",yearly,"  780,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+43,wife,defense retired,"  2,000,000 ","  200,000 ",yearly,"  816,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+27,father,self-employed,"  990,000 ","  99,000 ",yearly,"  960,000 ",single,non medical,12,10,ulip,bancassurance,misrepresentation
+40,wife,business,"  1,000,000 ","  100,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,son,business,"  990,000 ","  99,000 ",yearly,"  580,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,daughter,service,"  2,000,000 ","  200,000 ",yearly,"  7,200,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,spouse,housewife,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,husband,housewife,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+45,daughter,housewife,"  500,000 ","  50,000 ",yearly,"  468,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+39,husband,service,"  4,000,000 ","  88,549 ",yearly,"  420,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+40,wife,service,"  1,100,000 ","  27,590 ",yearly,"  900,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  700,000 ","  37,863 ",yearly,"  480,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+40,wife,service,"  1,316,000 ","  33,008 ",yearly,"  700,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,son,profession,"  2,300,000 ","  137,413 ",yearly,"  780,000 ",married,medical,16,10,traditional,bancassurance,misrepresentation
+43,spouse,service,"  1,300,000 ","  40,303 ",yearly,"  624,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  700,000 ","  42,372 ",yearly,"  540,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+34,husband,service,"  1,700,000 ","  29,150 ",yearly,"  660,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,son,service,"  800,000 ","  42,904 ",yearly,"  1,000,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+42,mother,service,"  700,000 ","  20,979 ",yearly,"  780,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+40,husband,service,"  1,300,000 ","  32,607 ",yearly,"  800,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+31,mother,service,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",single,non medical,15,10,ulip,bancassurance,misrepresentation
+34,spouse,self-employed,"  410,000 ","  25,483 ",half yearly,"  249,000 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+55,wife,service,"  1,200,000 ","  120,000 ",monthly,"  720,000 ",married,medical,10,10,ulip,retail agency,misrepresentation
+13,father,agriculturist,"  420,000 ","  51,125 ",yearly,"  504,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+28,wife,service,"  420,000 ","  51,125 ",yearly,"  480,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+32,wife,agriculturist,"  420,000 ","  51,125 ",yearly,"  300,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+42,wife,service,"  10,000,000 ","  75,055 ",monthly,"  2,016,000 ",married,medical,43,10,traditional,retail agency,misrepresentation
+55,spouse,service,"  1,100,000 ","  102,250 ",yearly,"  864,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+44,husband,service,"  1,100,000 ","  104,500 ",yearly,"  600,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+36,spouse,agriculturist,"  1,100,000 ","  106,590 ",half yearly,"  360,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+36,wife,defense retired,"  550,000 ","  51,125 ",yearly,"  420,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+48,wife,agriculturist,"  1,100,000 ","  106,590 ",half yearly,"  660,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+33,husband,service,"  135,000 ","  10,235 ",yearly,"  180,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+35,wife,business,"  800,000 ","  25,456 ",yearly,"  360,000 ",married,medical,30,10,traditional,retail agency,misrepresentation
+29,father,agriculturist,"  1,000,000 ","  38,498 ",yearly,"  240,000 ",single,non medical,25,10,traditional,retail agency,misrepresentation
+42,spouse,service,"  500,000 ","  50,000 ",yearly,"  540,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+44,wife,business,"  2,100,000 ","  300,000 ",yearly,"  1,500,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+57,wife,service,"  4,200,000 ","  600,000 ",yearly,"  1,800,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+61,husband,profession,0 ,"  400,000 ",yearly,"  1,700,000 ",married,non medical,10,10,ulip,retail agency,misrepresentation
+65,wife,retired,0 ,"  200,000 ",yearly,"  576,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+40,mother,service,0 ,"  500,000 ",yearly,"  1,500,000 ",single,non medical,10,10,ulip,bancassurance,misrepresentation
+60,son,defense retired,0 ,"  100,000 ",single,"  600,000 ",married,non medical,15,10,ulip,bancassurance,misrepresentation
+60,son,defense retired,0 ,"  100,000 ",yearly,"  600,000 ",married,non medical,15,10,ulip,bancassurance,misrepresentation
+44,wife,service,0 ,"  500,000 ",yearly,"  1,500,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+57,son,retired,0 ,"  500,000 ",yearly,"  1,500,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+70,spouse,retired,0 ,"  500,000 ",yearly,"  1,250,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+60,son,retired,0 ,"  200,000 ",yearly,"  2,400,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+22,mother,service,"  400,000 ","  5,000 ",yearly,"  400,000 ",single,non medical,10,10,traditional,retail agency,misrepresentation
+42,brother,agriculturist,"  500,000 ","  50,000 ",yearly,"  600,000 ",single,non medical,12,10,ulip,bancassurance,misrepresentation
+30,mother,service,"  2,000,000 ","  200,000 ",yearly,"  624,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+30,mother,service,"  2,000,000 ","  200,000 ",yearly,"  660,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+24,mother,service,"  2,000,000 ","  200,000 ",yearly,"  744,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+35,husband,service,"  1,500,000 ","  150,000 ",yearly,"  780,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+30,spouse,service,"  2,000,000 ","  200,000 ",yearly,"  1,800,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+30,father,service,"  2,000,000 ","  200,000 ",yearly,"  600,000 ",single,non medical,12,10,ulip,bancassurance,misrepresentation
+40,wife,service,"  2,000,000 ","  200,000 ",yearly,"  650,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+47,daughter,service,"  2,000,000 ","  200,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+54,daughter,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,daughter,service,"  999,000 ","  99,900 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+30,daughter,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",widowed,non medical,12,10,ulip,retail agency,misrepresentation
+30,son,service,"  1,000,000 ","  100,000 ",yearly,"  600,000 ",widowed,non medical,12,10,ulip,retail agency,misrepresentation
+30,son,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",widowed,non medical,12,10,ulip,retail agency,misrepresentation
+41,wife,agriculturist,"  1,500,000 ","  150,000 ",yearly,"  500,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+40,son,business,"  330,000 ","  52,686 ",yearly,"  360,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+41,mother,service,"  1,270,500 ","  172,425 ",yearly,"  600,000 ",single,non medical,15,10,traditional,bancassurance,misrepresentation
+40,spouse,service,"  420,000 ","  52,250 ",yearly,"  780,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+38,son,service,"  840,000 ","  104,500 ",yearly,"  480,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+27,son,housewife,"  420,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+27,daughter,housewife,"  420,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+48,daughter,service,"  1,158,000 ","  201,685 ",yearly,"  1,000,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+58,daughter,retired,"  315,000 ","  51,125 ",yearly,"  300,000 ",widowed,medical,15,10,traditional,retail agency,misrepresentation
+75,son,retired,0 ,"  10,000,000 ",single,"  20,000,000 ",married,non medical,45,10,pension,bancassurance,misrepresentation
+34,wife,service,"  1,100,000 ","  104,500 ",yearly,"  708,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+33,spouse,service,"  550,000 ","  51,125 ",yearly,"  600,000 ",married,non medical,26,10,traditional,institutional alliance,misrepresentation
+57,wife,retired,"  1,100,000 ","  104,500 ",yearly,"  1,600,000 ",married,medical,23,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  1,650,000 ","  156,750 ",yearly,"  720,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+37,husband,service,"  1,650,000 ","  153,375 ",yearly,"  720,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+45,husband,profession,"  1,100,000 ","  104,500 ",yearly,"  420,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+47,daughter,service,"  2,200,000 ","  209,000 ",yearly,"  720,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+18,mother,student,"  1,650,000 ","  156,750 ",yearly,"  840,000 ",single,non medical,36,10,traditional,retail agency,misrepresentation
+21,mother,service,"  2,200,000 ","  204,500 ",yearly,"  1,440,000 ",single,non medical,36,10,traditional,retail agency,misrepresentation
+45,husband,service,"  2,200,000 ","  204,500 ",yearly,"  1,900,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+56,spouse,service,"  2,200,000 ","  204,500 ",yearly,"  1,100,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+48,husband,service,"  1,100,000 ","  104,500 ",yearly,"  540,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+10,spouse,profession,"  1,100,000 ","  104,500 ",yearly,"  2,400,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+10,spouse,profession,"  1,100,000 ","  104,500 ",yearly,"  2,400,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+27,father,service,"  2,750,000 ","  255,625 ",yearly,"  1,200,000 ",single,non medical,36,10,traditional,retail agency,misrepresentation
+21,mother,service,"  3,300,000 ","  306,750 ",yearly,"  1,440,000 ",single,non medical,36,10,traditional,retail agency,misrepresentation
+15,spouse,service,"  4,675,000 ","  444,125 ",yearly,"  6,000,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+29,mother,service,"  2,750,000 ","  261,250 ",yearly,"  936,000 ",single,non medical,36,10,traditional,retail agency,misrepresentation
+26,mother,service,"  2,750,000 ","  261,250 ",yearly,"  720,000 ",single,non medical,36,10,traditional,retail agency,misrepresentation
+19,mother,student,"  3,300,000 ","  319,770 ",half yearly,"  1,440,000 ",single,non medical,31,10,traditional,retail agency,misrepresentation
+28,father,self-employed,"  5,500,000 ","  511,250 ",yearly,"  2,000,000 ",single,non medical,36,10,traditional,retail agency,misrepresentation
+30,mother,service,"  6,600,000 ","  627,000 ",yearly,"  1,920,000 ",single,medical,36,10,traditional,retail agency,misrepresentation
+42,wife,business,"  770,000 ","  74,613 ",half yearly,"  500,000 ",married,non medical,36,10,traditional,institutional alliance,misrepresentation
+46,wife,service,"  1,650,000 ","  156,750 ",yearly,"  750,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+45,mother,service,0 ,"  500,000 ",yearly,"  1,300,000 ",married,non medical,10,10,pension,bancassurance,misrepresentation
+51,wife,service,"  300,000 ","  31,977 ",half yearly,"  1,000,000 ",married,medical,49,10,traditional,retail agency,misrepresentation
+43,mother,service,"  1,500,000 ","  150,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  2,100,000 ","  300,000 ",yearly,"  800,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,spouse,housewife,"  1,850,000 ","  332,403 ",yearly,"  1,000,000 ",married,non medical,15,10,traditional,bancassurance,document tampering
+25,father,student,"  4,200,000 ","  600,000 ",yearly,"  840,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+8,spouse,retired,"  4,200,000 ","  600,000 ",yearly,"  1,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+54,husband,housewife,"  4,200,000 ","  600,000 ",yearly,"  2,000,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+18,father,student,"  4,200,000 ","  600,000 ",yearly,"  2,000,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+23,father,student,"  4,200,000 ","  600,000 ",yearly,"  2,000,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+18,father,student,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+18,father,student,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+13,spouse,retired,"  4,200,000 ","  600,000 ",yearly,"  2,160,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+20,father,student,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+19,father,student,"  4,200,000 ","  600,000 ",yearly,"  2,000,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+22,father,student,"  4,200,000 ","  600,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+13,spouse,retired,"  4,200,000 ","  600,000 ",yearly,"  2,160,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+25,mother,student,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+20,mother,student,"  3,150,000 ","  511,250 ",yearly,"  2,550,000 ",single,non medical,12,10,traditional,bancassurance,document tampering
+22,father,student,"  3,150,000 ","  511,250 ",yearly,"  2,000,000 ",single,non medical,12,10,traditional,bancassurance,document tampering
+25,mother,business,"  2,520,000 ","  306,750 ",yearly,"  1,600,000 ",single,non medical,15,10,traditional,bancassurance,document tampering
+11,spouse,service,"  5,225,000 ","  485,688 ",yearly,"  1,500,000 ",married,non medical,36,10,traditional,bancassurance,document tampering
+13,spouse,housewife,"  5,225,000 ","  485,688 ",yearly,"  1,300,000 ",married,non medical,36,10,traditional,bancassurance,document tampering
+10,spouse,business,"  5,225,000 ","  485,688 ",yearly,"  1,500,000 ",married,non medical,36,10,traditional,bancassurance,document tampering
+53,wife,service,"  100,000 ","  18,920 ",yearly,"  600,000 ",married,non medical,7,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  100,000 ","  18,708 ",yearly,"  600,000 ",married,non medical,7,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  150,000 ","  29,193 ",yearly,"  480,000 ",married,medical,7,10,traditional,bancassurance,misrepresentation
+46,husband,service,"  400,000 ","  72,264 ",yearly,"  1,200,000 ",married,non medical,7,10,traditional,retail agency,misrepresentation
+47,wife,service,"  270,000 ","  49,964 ",monthly,"  800,000 ",married,non medical,7,10,traditional,retail agency,misrepresentation
+34,wife,agriculturist,"  150,000 ","  15,000 ",yearly,"  360,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+39,wife,service,"  300,000 ","  30,000 ",yearly,"  300,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+38,spouse,agriculturist,"  240,000 ","  24,000 ",half yearly,"  180,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+39,wife,profession,"  275,000 ","  5,000 ",yearly,"  720,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+42,spouse,business,"  200,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+54,son,business,"  30,000 ","  1,500 ",yearly,"  180,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+30,wife,self-employed,"  475,000 ","  5,000 ",yearly,"  180,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+44,wife,agriculturist,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+40,wife,self-employed,"  275,000 ","  5,000 ",yearly,"  180,000 ",married,non medical,15,10,traditional,retail agency,document tampering
+39,son,self-employed,"  275,000 ","  5,000 ",yearly,"  210,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+33,daughter,service,"  350,000 ","  5,000 ",yearly,"  360,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+25,husband,housewife,"  475,000 ","  5,000 ",yearly,"  350,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+54,son,self-employed,"  100,000 ","  5,000 ",yearly,"  288,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+39,wife,business,"  275,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+49,son,agriculturist,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+43,wife,agriculturist,"  175,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,son,business,"  100,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+40,son,business,"  250,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+47,son,agriculturist,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,wife,service,"  150,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+33,mother,business,"  325,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+27,wife,business,"  475,000 ","  5,000 ",yearly,"  252,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+47,daughter,self-employed,"  150,000 ","  5,000 ",yearly,"  249,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+34,wife,agriculturist,"  325,000 ","  5,000 ",yearly,"  144,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+44,wife,service,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+53,wife,retired,"  100,000 ","  5,000 ",yearly,"  1,660,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+26,father,self-employed,"  475,000 ","  5,000 ",yearly,"  249,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+38,wife,business,"  275,000 ","  5,000 ",yearly,"  300,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+32,wife,business,"  350,000 ","  5,000 ",yearly,"  310,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+41,wife,agriculturist,"  200,000 ","  5,000 ",yearly,"  180,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+46,son,housewife,"  150,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+30,father,profession,"  475,000 ","  5,000 ",yearly,"  300,000 ",single,medical,15,10,traditional,retail agency,misrepresentation
+36,wife,business,"  275,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,wife,agriculturist,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+38,husband,business,"  275,000 ","  5,000 ",yearly,"  225,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+45,wife,business,"  200,000 ","  5,000 ",yearly,"  225,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+32,wife,business,"  325,000 ","  5,000 ",yearly,"  180,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+55,wife,profession,"  100,000 ","  5,000 ",yearly,"  360,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+49,wife,business,"  150,000 ","  5,000 ",yearly,"  215,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+43,wife,agriculturist,"  87,500 ","  2,500 ",yearly,"  150,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+49,son,self-employed,"  150,000 ","  5,000 ",yearly,"  300,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+43,spouse,self-employed,"  70,000 ","  2,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+44,son,self-employed,"  200,000 ","  5,000 ",yearly,"  180,000 ",married,non medical,15,10,traditional,institutional alliance,misrepresentation
+49,spouse,agriculturist,"  125,000 ","  5,000 ",yearly,"  300,000 ",married,medical,10,10,traditional,institutional alliance,misrepresentation
+27,brother,service,"  475,000 ","  5,000 ",yearly,"  200,000 ",single,non medical,15,10,traditional,retail agency,misrepresentation
+46,wife,business,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,daughter,housewife,"  150,000 ","  5,000 ",yearly,"  259,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+39,son,business,"  275,000 ","  5,000 ",yearly,"  235,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+36,spouse,business,"  275,000 ","  5,000 ",yearly,"  540,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+55,wife,business,"  100,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+37,wife,agriculturist,"  275,000 ","  5,000 ",yearly,"  360,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+40,wife,business,"  275,000 ","  5,000 ",yearly,"  400,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+55,daughter,agriculturist,"  100,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+54,wife,business,"  100,000 ","  5,000 ",yearly,"  310,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+33,spouse,agriculturist,"  350,000 ","  5,000 ",yearly,"  276,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+35,mother,self-employed,"  350,000 ","  5,000 ",yearly,"  300,000 ",single,non medical,15,10,traditional,retail agency,misrepresentation
+46,son,business,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+55,son,profession,"  30,000 ","  1,500 ",yearly,"  310,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+42,spouse,business,"  200,000 ","  5,000 ",yearly,"  260,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+46,sister,business,"  125,000 ","  5,000 ",yearly,"  300,000 ",single,non medical,10,10,traditional,retail agency,misrepresentation
+38,spouse,housewife,"  275,000 ","  5,000 ",yearly,"  245,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+53,wife,service,"  100,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+45,wife,business,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+46,wife,agriculturist,"  150,000 ","  5,000 ",yearly,"  420,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+50,spouse,agriculturist,"  125,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+48,spouse,service,"  125,000 ","  5,000 ",yearly,"  600,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+37,wife,business,"  275,000 ","  5,000 ",yearly,"  238,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+38,wife,self-employed,"  275,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+44,spouse,profession,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+50,wife,business,"  150,000 ","  5,000 ",yearly,"  360,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+52,spouse,business,"  100,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+38,wife,business,"  275,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+39,wife,self-employed,"  250,000 ","  5,000 ",yearly,"  325,000 ",married,medical,10,10,traditional,retail agency,misrepresentation
+36,husband,business,"  275,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+44,wife,business,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+45,son,business,"  200,000 ","  5,000 ",yearly,"  420,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+43,wife,business,"  175,000 ","  5,000 ",yearly,"  360,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+48,wife,agriculturist,"  150,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+41,spouse,self-employed,"  200,000 ","  5,000 ",yearly,"  120,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+43,son,agriculturist,"  175,000 ","  5,000 ",yearly,"  396,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+47,son,agriculturist,"  150,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+43,son,business,"  200,000 ","  5,000 ",yearly,"  215,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+54,son,service,"  100,000 ","  5,000 ",yearly,"  600,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+48,son,self-employed,"  150,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+54,son,service,"  100,000 ","  5,000 ",yearly,"  150,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+46,wife,agriculturist,"  125,000 ","  5,000 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+34,wife,agriculturist,"  350,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+37,wife,self-employed,"  275,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,wife,business,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+47,brother,business,"  150,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+34,husband,self-employed,"  350,000 ","  5,000 ",yearly,"  210,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+40,husband,self-employed,"  125,000 ","  2,500 ",yearly,"  180,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+28,spouse,business,"  400,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+51,brother,business,"  100,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+44,husband,agriculturist,"  175,000 ","  5,000 ",yearly,"  200,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+54,daughter,agriculturist,"  100,000 ","  5,000 ",yearly,"  500,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+53,son,business,"  60,000 ","  3,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+52,brother,agriculturist,"  100,000 ","  5,000 ",yearly,"  260,000 ",single,non medical,10,10,traditional,bancassurance,misrepresentation
+52,son,housewife,"  100,000 ","  5,000 ",yearly,"  350,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+50,husband,agriculturist,"  125,000 ","  5,000 ",yearly,"  200,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+54,son,service,"  100,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+44,husband,agriculturist,"  120,000 ","  3,000 ",yearly,"  200,000 ",married,non medical,15,10,traditional,institutional alliance,misrepresentation
+38,wife,agriculturist,"  275,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+35,spouse,business,"  350,000 ","  5,000 ",yearly,"  420,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+49,son,self-employed,"  75,000 ","  3,000 ",yearly,"  360,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+34,husband,business,"  350,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+23,mother,service,"  475,000 ","  5,000 ",yearly,"  144,000 ",single,non medical,15,10,traditional,retail agency,misrepresentation
+28,husband,service,"  400,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+53,wife,agriculturist,"  100,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,spouse,business,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+48,wife,service,"  125,000 ","  5,000 ",yearly,"  444,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+47,son,housewife,"  150,000 ","  5,000 ",yearly,"  350,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+51,spouse,business,"  100,000 ","  5,000 ",yearly,"  480,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,husband,self-employed,"  125,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,daughter,agriculturist,"  100,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,wife,agriculturist,"  125,000 ","  5,000 ",yearly,"  276,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,business,"  100,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,wife,business,"  150,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+48,husband,business,"  150,000 ","  5,000 ",yearly,"  180,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,wife,self-employed,"  150,000 ","  5,000 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,husband,housewife,"  150,000 ","  5,000 ",yearly,"  355,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,daughter,self-employed,"  150,000 ","  5,000 ",yearly,"  200,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+47,spouse,business,"  150,000 ","  5,000 ",yearly,"  400,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+42,daughter,service,"  400,000 ","  5,000 ",yearly,"  600,000 ",widowed,non medical,10,10,traditional,retail agency,misrepresentation
+50,son,service,"  400,000 ","  40,000 ",yearly,"  640,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,business,"  500,000 ","  50,000 ",yearly,"  350,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  999,000 ","  99,900 ",yearly,"  984,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,retired,"  600,000 ","  60,000 ",yearly,"  480,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+50,wife,service,"  400,000 ","  40,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,spouse,service,"  400,000 ","  40,000 ",yearly,"  700,000 ",married,medical,12,10,ulip,retail agency,misrepresentation
+50,wife,service,"  400,000 ","  40,000 ",yearly,"  744,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+46,husband,housewife,"  999,000 ","  99,900 ",yearly,"  1,000,000 ",married,medical,15,10,ulip,retail agency,misrepresentation
+46,spouse,service,"  2,000,000 ","  200,000 ",yearly,"  500,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+42,wife,service,"  500,000 ","  50,000 ",yearly,"  960,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  300,000 ","  30,000 ",yearly,"  400,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  600,000 ","  60,000 ",yearly,"  840,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,son,service,"  500,000 ","  50,000 ",yearly,"  732,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,wife,retired,"  990,000 ","  99,000 ",yearly,"  400,000 ",married,medical,12,10,ulip,retail agency,misrepresentation
+55,wife,service,"  500,000 ","  50,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,business,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+36,wife,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,spouse,service,"  300,000 ","  30,000 ",yearly,"  780,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  300,000 ","  30,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,daughter,service,"  1,000,000 ","  100,000 ",yearly,"  600,000 ",widowed,non medical,12,10,ulip,bancassurance,misrepresentation
+54,husband,housewife,"  600,000 ","  60,000 ",yearly,"  660,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,self-employed,"  500,000 ","  50,000 ",yearly,"  300,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+43,wife,self-employed,"  300,000 ","  30,000 ",yearly,"  249,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+45,wife,service,"  300,000 ","  30,000 ",yearly,"  504,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  999,000 ","  99,900 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  500,000 ","  50,000 ",yearly,"  660,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+55,spouse,service,"  300,000 ","  30,000 ",yearly,"  672,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  1,000,000 ","  100,000 ",yearly,"  780,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,medical,15,10,ulip,retail agency,misrepresentation
+48,son,agriculturist,"  500,000 ","  50,000 ",yearly,"  750,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+44,wife,service,"  300,000 ","  30,000 ",yearly,"  624,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,husband,service,"  500,000 ","  50,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  320,000 ","  32,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+26,husband,self-employed,"  500,000 ","  50,000 ",yearly,"  360,000 ",married,medical,12,10,ulip,retail agency,misrepresentation
+51,wife,agriculturist,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,spouse,service,"  300,000 ","  30,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,husband,housewife,"  500,000 ","  50,000 ",yearly,"  350,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  500,000 ","  50,000 ",yearly,"  912,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  300,000 ","  30,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  300,000 ","  30,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+40,husband,housewife,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,son,service,"  400,000 ","  40,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  1,000,000 ","  100,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+36,wife,service,"  300,000 ","  30,000 ",yearly,"  840,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+45,wife,service,"  300,000 ","  30,000 ",yearly,"  580,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+42,wife,service,"  400,000 ","  40,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,husband,housewife,"  500,000 ","  50,000 ",yearly,"  250,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+50,wife,business,"  400,000 ","  40,000 ",yearly,"  600,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+53,son,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,spouse,self-employed,"  1,000,000 ","  100,000 ",yearly,"  700,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  499,000 ","  49,900 ",yearly,"  780,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+45,husband,service,"  500,000 ","  50,000 ",yearly,"  900,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  1,000,000 ","  100,000 ",yearly,"  660,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,son,business,"  300,000 ","  30,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,son,service,"  330,000 ","  33,000 ",yearly,"  780,000 ",married,non medical,15,10,ulip,bancassurance,misrepresentation
+55,wife,service,"  800,000 ","  80,000 ",yearly,"  540,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+51,spouse,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,son,service,"  400,000 ","  40,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,spouse,service,"  400,000 ","  40,000 ",yearly,"  720,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,spouse,service,"  300,000 ","  30,000 ",yearly,"  1,020,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,business,"  400,000 ","  40,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  1,000,000 ","  100,000 ",yearly,"  1,140,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,son,retired,"  300,000 ","  30,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,son,service,"  500,000 ","  50,000 ",yearly,"  650,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,husband,service,"  1,000,000 ","  100,000 ",yearly,"  1,800,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,son,service,"  500,000 ","  50,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+45,wife,service,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  1,000,000 ","  100,000 ",yearly,"  900,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+47,wife,business,"  1,000,000 ","  100,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,spouse,service,"  500,000 ","  50,000 ",yearly,"  540,000 ",married,non medical,15,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  840,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  600,000 ","  60,000 ",yearly,"  600,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+55,wife,service,"  400,000 ","  40,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  300,000 ","  30,000 ",yearly,"  10,800,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,son,business,"  1,000,000 ","  100,000 ",yearly,"  420,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+54,wife,business,"  1,000,000 ","  100,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,son,service,"  500,000 ","  50,000 ",yearly,"  816,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+33,wife,agriculturist,"  300,000 ","  30,000 ",yearly,"  540,000 ",married,medical,12,10,ulip,institutional alliance,misrepresentation
+49,son,service,"  1,000,000 ","  100,000 ",yearly,"  732,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,spouse,housewife,"  125,000 ","  100,000 ",single,"  500,000 ",married,non medical,10,10,ulip,retail agency,misrepresentation
+54,son,service,"  400,000 ","  40,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  400,000 ","  40,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  624,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  1,000,000 ","  100,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  520,000 ","  52,000 ",yearly,"  800,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,business,"  497,000 ","  49,700 ",yearly,"  420,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+51,spouse,business,"  400,000 ","  40,000 ",yearly,"  240,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+55,wife,service,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,son,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,son,service,"  380,000 ","  38,000 ",yearly,"  540,000 ",widowed,non medical,12,10,ulip,bancassurance,misrepresentation
+47,wife,self-employed,"  500,000 ","  50,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,son,business,"  500,000 ","  50,000 ",yearly,"  420,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+55,wife,service,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+48,son,agriculturist,"  490,000 ","  49,000 ",yearly,"  400,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+47,wife,service,"  300,000 ","  30,000 ",yearly,"  240,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+46,wife,self-employed,"  500,000 ","  50,000 ",yearly,"  384,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,husband,business,"  499,000 ","  49,900 ",yearly,"  250,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+41,husband,housewife,"  999,000 ","  99,900 ",yearly,"  900,000 ",married,non medical,25,10,ulip,retail agency,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+38,daughter,business,"  1,000,000 ","  100,000 ",yearly,"  420,000 ",married,non medical,20,10,ulip,retail agency,misrepresentation
+46,wife,business,"  1,000,000 ","  100,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+46,son,agriculturist,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  600,000 ","  60,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  1,000,000 ","  100,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  750,000 ","  75,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,agriculturist,"  500,000 ","  50,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+54,wife,service,"  700,000 ","  70,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,wife,business,"  1,000,000 ","  100,000 ",yearly,"  1,440,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  400,000 ","  40,000 ",yearly,"  576,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,husband,housewife,"  500,000 ","  50,000 ",yearly,"  360,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+50,wife,business,"  1,000,000 ","  100,000 ",yearly,"  500,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+48,wife,service,"  300,000 ","  30,000 ",yearly,"  624,000 ",married,medical,12,10,ulip,retail agency,misrepresentation
+53,wife,business,"  400,000 ","  40,000 ",yearly,"  420,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+55,wife,service,"  500,000 ","  50,000 ",yearly,"  1,140,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,husband,self-employed,"  499,000 ","  49,900 ",yearly,"  360,000 ",married,non medical,20,10,ulip,retail agency,misrepresentation
+54,spouse,business,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+46,wife,service,"  1,000,000 ","  100,000 ",yearly,"  660,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,son,business,"  500,000 ","  50,000 ",yearly,"  300,000 ",married,medical,20,10,ulip,retail agency,misrepresentation
+53,spouse,self-employed,"  1,000,000 ","  100,000 ",yearly,"  780,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,son,service,"  500,000 ","  50,000 ",yearly,"  900,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,son,service,"  500,000 ","  50,000 ",yearly,"  552,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  300,000 ","  30,000 ",yearly,"  780,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  400,000 ","  40,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  500,000 ","  50,000 ",yearly,"  596,400 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,spouse,self-employed,"  1,000,000 ","  100,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  400,000 ","  40,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  400,000 ","  40,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+47,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,spouse,service,"  500,000 ","  50,000 ",yearly,"  660,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,son,business,"  500,000 ","  50,000 ",yearly,"  360,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+54,son,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,son,housewife,"  500,000 ","  50,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,business,"  500,000 ","  50,000 ",yearly,"  768,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+49,wife,service,"  600,000 ","  60,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,spouse,service,"  1,000,000 ","  100,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,spouse,service,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  500,000 ","  50,000 ",yearly,"  800,000 ",married,non medical,15,10,ulip,bancassurance,misrepresentation
+51,son,business,"  500,000 ","  50,000 ",yearly,"  250,000 ",widowed,non medical,12,10,ulip,bancassurance,misrepresentation
+50,daughter,service,"  500,000 ","  50,000 ",yearly,"  576,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,son,housewife,"  500,000 ","  50,000 ",yearly,"  648,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,spouse,service,"  500,000 ","  50,000 ",yearly,"  650,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,self-employed,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,non medical,21,10,ulip,retail agency,misrepresentation
+48,wife,agriculturist,"  300,000 ","  30,000 ",yearly,"  504,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,agriculturist,"  500,000 ","  50,000 ",yearly,"  350,000 ",married,non medical,15,10,ulip,bancassurance,misrepresentation
+55,wife,business,"  1,000,000 ","  100,000 ",yearly,"  350,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+48,wife,agriculturist,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,business,"  300,000 ","  30,000 ",yearly,"  300,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,spouse,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,retired,"  1,000,000 ","  100,000 ",yearly,"  504,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,business,"  1,000,000 ","  100,000 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+50,spouse,business,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+51,spouse,business,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+48,son,housewife,"  500,000 ","  50,000 ",yearly,"  350,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  1,000,000 ","  100,000 ",yearly,"  240,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,spouse,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,son,business,"  300,000 ","  30,000 ",yearly,"  350,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+53,wife,service,"  500,000 ","  50,000 ",yearly,"  1,164,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,son,service,"  1,500,000 ","  150,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+51,son,service,"  1,000,000 ","  100,000 ",yearly,"  780,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+45,wife,service,"  500,000 ","  50,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,son,business,"  499,000 ","  49,900 ",yearly,"  300,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+52,son,service,"  500,000 ","  50,000 ",yearly,"  720,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+48,spouse,agriculturist,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,wife,business,"  500,000 ","  50,000 ",yearly,"  660,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,agriculturist,"  300,000 ","  30,000 ",yearly,"  400,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,15,10,ulip,bancassurance,misrepresentation
+52,son,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  1,000,000 ","  100,000 ",yearly,"  744,000 ",married,medical,12,10,ulip,retail agency,misrepresentation
+54,son,agriculturist,"  500,000 ","  50,000 ",yearly,"  360,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+50,wife,self-employed,"  1,000,000 ","  100,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  300,000 ","  30,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  50,000 ",yearly,"  780,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,spouse,service,"  500,000 ","  50,000 ",yearly,"  780,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+55,grand daughter,housewife,"  400,000 ","  40,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,business,"  1,000,000 ","  100,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,spouse,business,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,service,"  400,000 ","  40,000 ",yearly,"  420,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+48,son,agriculturist,"  300,000 ","  30,000 ",yearly,"  300,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+48,spouse,service,"  1,000,000 ","  100,000 ",yearly,"  800,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,sister,service,"  300,000 ","  30,000 ",yearly,"  960,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+46,husband,housewife,"  500,000 ","  50,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  400,000 ","  40,000 ",yearly,"  840,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  300,000 ","  30,000 ",yearly,"  528,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,brother,business,"  500,000 ","  50,000 ",yearly,"  406,480 ",single,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  300,000 ","  30,000 ",yearly,"  576,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,husband,housewife,"  300,000 ","  30,000 ",yearly,"  250,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+53,niece,service,"  500,000 ","  50,000 ",yearly,"  400,000 ",widowed,non medical,12,10,ulip,bancassurance,misrepresentation
+50,spouse,service,"  500,000 ","  50,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  800,000 ","  80,000 ",yearly,"  504,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,wife,self-employed,"  1,500,000 ","  150,000 ",yearly,"  480,000 ",married,non medical,18,10,ulip,retail agency,misrepresentation
+54,wife,agriculturist,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,business,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,son,service,"  500,000 ","  50,000 ",yearly,"  504,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+47,wife,service,"  2,000,000 ","  200,000 ",yearly,"  840,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,son,housewife,"  1,000,000 ","  100,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,wife,service,"  300,000 ","  30,000 ",yearly,"  400,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  500,000 ","  50,000 ",yearly,"  310,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,service,"  400,000 ","  40,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  300,000 ","  30,000 ",yearly,"  500,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+48,wife,business,"  600,000 ","  60,000 ",yearly,"  400,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+51,wife,agriculturist,"  500,000 ","  50,000 ",yearly,"  352,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,husband,service,"  2,000,000 ","  200,000 ",yearly,"  1,020,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+51,spouse,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+52,son,business,"  500,000 ","  50,000 ",yearly,"  500,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+53,wife,service,"  500,000 ","  50,000 ",yearly,"  840,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,niece,service,"  750,000 ","  75,000 ",yearly,"  600,000 ",single,non medical,12,10,ulip,retail agency,misrepresentation
+55,son,service,"  500,000 ","  50,000 ",yearly,"  672,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,husband,housewife,"  300,000 ","  30,000 ",yearly,"  180,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+50,wife,service,"  500,000 ","  50,000 ",yearly,"  700,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,husband,housewife,"  400,000 ","  40,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+52,son,agriculturist,"  1,000,000 ","  100,000 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+53,wife,agriculturist,"  500,000 ","  50,000 ",yearly,"  400,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,daughter,business,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+53,wife,agriculturist,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  300,000 ","  30,000 ",yearly,"  504,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,spouse,business,"  1,000,000 ","  100,000 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+46,wife,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,20,10,ulip,retail agency,misrepresentation
+50,wife,construction labour,"  1,000,000 ","  100,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,business,"  500,000 ","  50,000 ",yearly,"  525,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+52,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,daughter,business,"  500,000 ","  50,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  400,000 ","  40,000 ",yearly,"  500,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  1,000,000 ","  100,000 ",yearly,"  612,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,wife,service,"  300,000 ","  30,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  300,000 ","  30,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+49,wife,service,"  1,000,000 ","  100,000 ",yearly,"  1,020,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,brother,service,"  400,000 ","  40,000 ",yearly,"  1,500,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,wife,agriculturist,"  300,000 ","  30,000 ",yearly,"  360,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+47,son,service,"  400,000 ","  40,000 ",yearly,"  800,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,son,service,"  600,000 ","  60,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,wife,business,"  499,000 ","  49,900 ",yearly,"  480,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,son,business,"  300,000 ","  30,000 ",yearly,"  400,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,wife,service,"  500,000 ","  50,000 ",yearly,"  480,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+54,spouse,service,"  1,000,000 ","  100,000 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+53,son,service,"  300,000 ","  30,000 ",yearly,"  864,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+52,daughter,business,"  500,000 ","  50,000 ",yearly,"  1,000,000 ",married,non medical,18,10,ulip,retail agency,misrepresentation
+54,wife,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+46,wife,service,"  300,000 ","  30,000 ",yearly,"  672,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+51,daughter,self-employed,"  500,000 ","  50,000 ",yearly,"  400,000 ",married,medical,12,10,ulip,retail agency,misrepresentation
+49,husband,agriculturist,"  499,000 ","  49,900 ",yearly,"  300,000 ",married,non medical,12,10,ulip,retail agency,misrepresentation
+55,niece,service,"  400,000 ","  40,000 ",yearly,"  544,000 ",single,non medical,15,10,ulip,retail agency,misrepresentation
+52,spouse,service,"  300,000 ","  30,000 ",yearly,"  480,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+53,spouse,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+41,mother,agriculturist,"  500,000 ","  50,000 ",yearly,"  420,000 ",single,non medical,12,10,ulip,bancassurance,misrepresentation
+53,spouse,service,"  928,000 ","  92,800 ",yearly,"  1,500,000 ",married,non medical,15,10,ulip,retail agency,misrepresentation
+20,mother,agriculturist,"  210,000 ","  18,584 ",yearly,"  216,000 ",single,non medical,15,10,traditional,retail agency,misrepresentation
+32,wife,business,"  500,000 ","  26,987 ",yearly,"  300,000 ",married,non medical,25,10,traditional,retail agency,misrepresentation
+42,wife,business,"  212,000 ","  20,181 ",half yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+46,wife,business,"  200,000 ","  31,202 ",yearly,"  360,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+47,wife,service,"  275,000 ","  43,313 ",yearly,"  660,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+48,son,business,"  1,000,000 ","  155,496 ",yearly,"  1,032,000,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+44,daughter,self-employed,"  100,000 ","  11,478 ",yearly,"  300,000 ",married,medical,13,10,traditional,retail agency,misrepresentation
+28,daughter,service,"  2,000,000 ","  112,373 ",yearly,"  540,000 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+37,son,business,"  300,000 ","  17,337 ",yearly,"  540,000 ",married,non medical,21,10,traditional,retail agency,misrepresentation
+60,wife,retired,"  470,000 ","  107,311 ",yearly,"  540,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  120,000 ","  25,639 ",yearly,"  720,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+54,spouse,service,"  180,000 ","  36,373 ",yearly,"  780,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+55,son,service,"  110,000 ","  22,829 ",yearly,"  720,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  100,000 ","  19,640 ",yearly,"  360,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+55,son,service,"  300,000 ","  60,694 ",yearly,"  840,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+49,wife,service,"  160,000 ","  30,372 ",yearly,"  240,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+59,daughter,service,"  300,000 ","  69,035 ",half yearly,"  679,260 ",married,medical,15,10,traditional,retail agency,misrepresentation
+57,wife,service,"  500,000 ","  104,218 ",yearly,"  600,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+57,son,business,"  500,000 ","  106,302 ",half yearly,"  600,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+54,husband,housewife,"  300,000 ","  59,681 ",yearly,"  504,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+60,wife,retired,"  961,000 ","  226,005 ",yearly,"  1,500,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+58,son,agriculturist,"  115,000 ","  25,150 ",yearly,"  360,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  100,000 ","  23,146 ",yearly,"  600,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  600,000 ","  29,469 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+45,wife,service,"  525,000 ","  19,811 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+30,wife,service,"  1,500,000 ","  22,509 ",yearly,"  326,292 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  1,000,000 ","  39,438 ",yearly,"  744,000 ",married,medical,10,10,traditional,retail agency,misrepresentation
+45,spouse,service,"  550,000 ","  20,754 ",yearly,"  480,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  520,000 ","  19,638 ",yearly,"  300,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  1,000,000 ","  54,131 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+53,son,service,"  500,000 ","  24,725 ",yearly,"  750,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+34,wife,business,"  1,000,000 ","  10,398 ",yearly,"  520,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+52,son,service,"  500,000 ","  29,333 ",yearly,"  504,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+27,wife,service,"  550,000 ","  8,725 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  650,000 ","  38,133 ",yearly,"  500,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,daughter,service,"  500,000 ","  29,333 ",yearly,"  450,000 ",widowed,non medical,10,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  500,000 ","  20,205 ",yearly,"  420,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,son,service,"  650,000 ","  38,133 ",yearly,"  744,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+43,wife,service,"  500,000 ","  12,801 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  500,000 ","  30,932 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+53,spouse,service,"  1,200,000 ","  72,857 ",yearly,"  900,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  1,000,000 ","  57,517 ",yearly,"  720,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+45,son,service,"  670,000 ","  25,282 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  500,000 ","  20,205 ",yearly,"  840,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  750,000 ","  46,045 ",yearly,"  720,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+43,wife,service,"  900,000 ","  31,008 ",yearly,"  960,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+47,wife,other arm forces except police,"  600,000 ","  25,945 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,daughter,service,"  500,000 ","  32,641 ",yearly,"  900,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  1,100,000 ","  32,542 ",yearly,"  960,000 ",married,medical,20,10,traditional,bancassurance,misrepresentation
+26,father,service,"  1,800,000 ","  24,773 ",yearly,"  540,000 ",single,non medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  1,000,000 ","  47,966 ",yearly,"  1,440,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  1,000,000 ","  54,131 ",yearly,"  840,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  800,000 ","  43,848 ",yearly,"  720,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+58,wife,service,"  500,000 ","  40,259 ",yearly,"  840,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+38,husband,service,"  1,100,000 ","  24,772 ",yearly,"  460,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  1,180,000 ","  48,794 ",yearly,"  1,200,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  620,000 ","  40,474 ",yearly,"  700,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+46,spouse,service,"  500,000 ","  20,205 ",yearly,"  400,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  600,000 ","  31,237 ",yearly,"  960,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+45,wife,service,"  1,000,000 ","  36,585 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  700,000 ","  37,906 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  29,333 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+58,wife,service,"  530,000 ","  42,674 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  1,450,000 ","  63,656 ",yearly,"  960,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  30,506 ",half yearly,"  720,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+56,spouse,service,"  570,000 ","  20,258 ",yearly,"  700,000 ",married,medical,19,10,traditional,retail agency,misrepresentation
+48,wife,service,"  1,000,000 ","  44,987 ",yearly,"  700,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,son,service,"  600,000 ","  35,200 ",yearly,"  800,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  16,312 ",yearly,"  600,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+55,spouse,service,"  500,000 ","  35,446 ",yearly,"  840,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+43,wife,service,"  650,000 ","  21,342 ",yearly,"  780,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  700,000 ","  38,696 ",yearly,"  504,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  900,000 ","  31,685 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+53,son,service,"  500,000 ","  30,932 ",yearly,"  480,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  600,000 ","  29,469 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  680,000 ","  20,401 ",yearly,"  687,000 ",married,medical,18,10,traditional,bancassurance,misrepresentation
+44,husband,service,"  630,000 ","  22,180 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  21,219 ",yearly,"  744,000 ",married,non medical,10,10,traditional,institutional alliance,misrepresentation
+53,wife,service,"  500,000 ","  17,227 ",yearly,"  700,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+55,son,service,"  500,000 ","  34,401 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  34,401 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  500,000 ","  29,129 ",yearly,"  480,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  500,000 ","  26,031 ",yearly,"  780,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  1,000,000 ","  44,987 ",yearly,"  552,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  700,000 ","  28,287 ",yearly,"  720,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+40,spouse,service,"  1,000,000 ","  25,634 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,spouse,service,"  1,000,000 ","  50,056 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,spouse,service,"  600,000 ","  27,682 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  800,000 ","  38,205 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+58,daughter,service,"  1,000,000 ","  63,089 ",half yearly,"  679,260 ",married,medical,10,10,traditional,retail agency,misrepresentation
+56,spouse,service,"  545,000 ","  30,173 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,spouse,service,"  500,000 ","  30,378 ",yearly,"  780,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+50,daughter,service,"  800,000 ","  41,273 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+58,wife,service,"  500,000 ","  27,881 ",yearly,"  840,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  500,000 ","  30,932 ",yearly,"  500,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+40,son,service,"  1,600,000 ","  39,927 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+46,son,business,"  950,000 ","  17,841 ",half yearly,"  480,000 ",married,non medical,27,10,traditional,retail agency,misrepresentation
+53,spouse,service,"  500,000 ","  31,977 ",yearly,"  804,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+55,son,service,"  800,000 ","  54,666 ",yearly,"  960,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  530,000 ","  29,343 ",yearly,"  840,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  520,000 ","  39,652 ",yearly,"  540,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  800,000 ","  50,787 ",yearly,"  720,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  28,685 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  500,000 ","  27,682 ",yearly,"  756,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+40,wife,service,"  875,000 ","  24,853 ",yearly,"  780,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  1,000,000 ","  36,205 ",monthly,"  750,000 ",married,medical,24,10,traditional,retail agency,misrepresentation
+54,husband,service,"  500,000 ","  19,860 ",yearly,"  780,000 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+52,wife,service,"  500,000 ","  22,431 ",yearly,"  504,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  600,000 ","  31,237 ",yearly,"  660,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+56,son,service,"  500,000 ","  36,230 ",yearly,"  1,000,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+49,spouse,service,"  1,000,000 ","  47,966 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+47,wife,service,"  1,130,000 ","  49,926 ",yearly,"  1,200,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  660,000 ","  30,450 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,son,self-employed,"  500,000 ","  27,640 ",yearly,"  720,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+54,wife,service,"  500,000 ","  24,965 ",yearly,"  576,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+52,wife,service,"  700,000 ","  42,529 ",yearly,"  700,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,spouse,service,"  600,000 ","  35,200 ",yearly,"  700,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+47,spouse,service,"  700,000 ","  30,269 ",yearly,"  420,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+50,daughter,service,"  500,000 ","  26,031 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  930,000 ","  60,274 ",yearly,"  1,000,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  730,000 ","  50,226 ",yearly,"  660,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  800,000 ","  38,916 ",yearly,"  696,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  29,333 ",yearly,"  624,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  500,000 ","  20,205 ",yearly,"  7,000,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  550,000 ","  35,905 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  500,000 ","  22,572 ",yearly,"  480,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  34,401 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  32,641 ",yearly,"  660,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  500,000 ","  30,932 ",yearly,"  576,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  800,000 ","  31,952 ",yearly,"  300,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  34,401 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,son,service,"  1,000,000 ","  57,517 ",yearly,"  1,200,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  700,000 ","  33,759 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,son,service,"  500,000 ","  33,946 ",half yearly,"  672,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  500,000 ","  36,230 ",yearly,"  660,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+47,wife,service,"  800,000 ","  34,217 ",yearly,"  660,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  900,000 ","  43,780 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  1,000,000 ","  50,912 ",yearly,"  800,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  500,000 ","  29,129 ",yearly,"  500,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+53,son,service,"  1,000,000 ","  60,715 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  900,000 ","  41,100 ",yearly,"  300,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,daughter,service,"  540,000 ","  28,113 ",yearly,"  576,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+47,wife,service,"  500,000 ","  21,621 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,son,service,"  500,000 ","  26,297 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  800,000 ","  43,848 ",yearly,"  850,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+46,spouse,service,"  500,000 ","  20,205 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  500,000 ","  29,129 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  500,000 ","  36,230 ",yearly,"  744,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  32,641 ",yearly,"  800,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  550,000 ","  25,375 ",yearly,"  400,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  21,219 ",yearly,"  600,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+47,spouse,service,"  1,100,000 ","  46,302 ",yearly,"  780,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+46,son,service,"  500,000 ","  20,205 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  32,641 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  700,000 ","  36,443 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  750,000 ","  29,955 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+59,wife,agriculturist,"  2,500,000 ","  199,464 ",yearly,"  480,000 ",married,medical,16,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  900,000 ","  29,080 ",yearly,"  720,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+58,wife,service,"  533,000 ","  30,038 ",yearly,"  600,000 ",married,medical,11,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  550,000 ","  30,450 ",yearly,"  540,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  565,000 ","  34,327 ",yearly,"  669,600 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+59,son,service,"  1,196,000 ","  100,036 ",yearly,"  2,400,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  32,641 ",yearly,"  420,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+57,spouse,service,"  500,000 ","  38,127 ",yearly,"  800,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+61,wife,business,"  1,100,000 ","  59,429 ",yearly,"  1,260,000 ",married,medical,14,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  600,000 ","  31,237 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  510,000 ","  25,049 ",yearly,"  576,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  500,000 ","  29,333 ",yearly,"  800,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  35,446 ",yearly,"  750,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  500,000 ","  38,127 ",yearly,"  828,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,son,service,"  900,000 ","  41,100 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  34,401 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,spouse,service,"  500,000 ","  23,068 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  600,000 ","  31,237 ",yearly,"  504,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+60,wife,service,"  550,000 ","  49,101 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  700,000 ","  36,443 ",yearly,"  912,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  700,000 ","  32,296 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  27,640 ",yearly,"  960,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  1,120,000 ","  50,386 ",yearly,"  400,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  750,000 ","  41,108 ",yearly,"  700,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  650,000 ","  37,291 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  550,000 ","  30,404 ",yearly,"  828,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  663,000 ","  25,039 ",yearly,"  480,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  34,401 ",yearly,"  660,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  31,799 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+46,son,service,"  500,000 ","  20,205 ",yearly,"  432,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  700,000 ","  50,722 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  2,300,000 ","  155,819 ",yearly,"  1,320,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  1,500,000 ","  74,064 ",yearly,"  1,000,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,spouse,service,"  1,350,000 ","  49,926 ",yearly,"  1,140,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+42,wife,profession,"  1,000,000 ","  13,763 ",yearly,"  720,000 ",married,non medical,30,10,traditional,retail agency,misrepresentation
+52,spouse,service,"  620,000 ","  36,373 ",yearly,"  636,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+47,spouse,service,"  600,000 ","  25,945 ",yearly,"  672,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  1,250,000 ","  49,115 ",yearly,"  960,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  800,000 ","  36,533 ",yearly,"  396,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,son,service,"  1,000,000 ","  50,912 ",yearly,"  576,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  800,000 ","  43,848 ",yearly,"  2,400,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  500,000 ","  26,297 ",yearly,"  550,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  750,000 ","  27,972 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+46,sister,service,"  500,000 ","  20,205 ",yearly,"  480,000 ",single,non medical,10,10,traditional,bancassurance,misrepresentation
+57,wife,service,"  1,000,000 ","  75,104 ",yearly,"  1,440,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,spouse,service,"  1,100,000 ","  49,486 ",yearly,"  672,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+55,son,service,"  550,000 ","  38,991 ",yearly,"  1,140,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  550,000 ","  28,163 ",yearly,"  780,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  800,000 ","  41,273 ",yearly,"  600,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  800,000 ","  41,273 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  500,000 ","  36,230 ",yearly,"  720,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+47,wife,service,"  700,000 ","  30,269 ",yearly,"  500,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  1,200,000 ","  53,985 ",yearly,"  1,104,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  500,000 ","  32,641 ",yearly,"  360,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  500,000 ","  24,558 ",yearly,"  540,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+56,spouse,service,"  500,000 ","  27,682 ",yearly,"  480,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  4,200,000 ","  600,000 ",half yearly,"  1,200,000 ",married,medical,10,10,ulip,retail agency,misrepresentation
+39,wife,service,"  4,200,000 ","  600,000 ",yearly,"  2,250,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+42,spouse,business,"  17,500,000 ","  2,500,000 ",yearly,"  7,200,000 ",married,medical,10,10,ulip,bancassurance,misrepresentation
+48,wife,service,"  132,000 ","  19,476 ",yearly,"  540,000 ",married,medical,13,10,traditional,bancassurance,misrepresentation
+45,son,service,"  120,000 ","  16,442 ",yearly,"  400,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+43,wife,service,"  400,000 ","  25,310 ",yearly,"  600,000 ",married,non medical,20,10,traditional,bancassurance,misrepresentation
+36,wife,business,"  335,000 ","  20,525 ",yearly,"  240,000 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+46,wife,agriculturist,"  115,000 ","  19,447 ",yearly,"  240,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+49,wife,business,"  225,000 ","  23,729 ",half yearly,"  215,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+45,son,business,"  1,000,000 ","  64,069 ",yearly,"  300,001 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+49,son,agriculturist,"  165,000 ","  26,229 ",yearly,"  180,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+39,son,business,"  200,000 ","  13,019 ",yearly,"  235,000 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+47,son,business,"  250,000 ","  25,859 ",half yearly,"  245,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+37,wife,business,"  450,000 ","  28,218 ",half yearly,"  238,000 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+49,wife,service,"  718,000 ","  120,050 ",yearly,"  624,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+49,wife,agriculturist,"  174,000 ","  30,078 ",yearly,"  360,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+46,wife,service,"  300,000 ","  29,353 ",yearly,"  480,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+47,wife,service,"  360,000 ","  52,589 ",yearly,"  540,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+49,son,housewife,"  475,000 ","  79,916 ",yearly,"  360,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+46,wife,agriculturist,"  205,000 ","  30,681 ",yearly,"  300,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+60,wife,business,"  1,000,000 ","  16,217 ",yearly,"  1,260,000 ",married,non medical,15,10,health,retail agency,misrepresentation
+55,son,service,"  1,000,000 ","  5,885 ",yearly,"  840,000 ",married,non medical,5,10,health,retail agency,misrepresentation
+36,wife,business,"  5,000,000 ","  14,576 ",yearly,"  300,000 ",married,medical,15,10,traditional,institutional alliance,misrepresentation
+44,wife,service,"  3,000,000 ","  30,908 ",yearly,"  1,200,000 ",married,medical,30,10,traditional,retail agency,misrepresentation
+48,wife,service,"  2,100,000 ","  20,525 ",yearly,"  540,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+43,husband,service,"  5,000,000 ","  23,133 ",half yearly,"  840,000 ",married,medical,20,10,traditional,retail agency,misrepresentation
+56,wife,service,"  2,000,000 ","  39,950 ",yearly,"  1,200,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  2,000,000 ","  30,727 ",yearly,"  400,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+53,son,service,"  2,000,000 ","  36,684 ",yearly,"  350,000 ",married,medical,20,10,traditional,institutional alliance,misrepresentation
+45,son,service,"  2,100,000 ","  15,485 ",yearly,"  400,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+59,wife,service,"  2,500,000 ","  52,062 ",yearly,"  660,000 ",married,medical,10,10,traditional,retail agency,misrepresentation
+52,wife,service,"  2,000,000 ","  23,048 ",yearly,"  1,200,000 ",married,medical,10,10,traditional,retail agency,misrepresentation
+53,wife,business,"  480,000 ","  48,000 ",monthly,"  360,000 ",married,non medical,10,10,ulip,retail agency,misrepresentation
+46,wife,service,"  600,000 ","  60,000 ",monthly,"  600,000 ",married,non medical,10,10,ulip,retail agency,misrepresentation
+48,daughter,service,"  300,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+39,son,service,"  840,000 ","  104,500 ",yearly,"  700,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  270,000 ","  52,250 ",yearly,"  1,320,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  270,000 ","  52,250 ",yearly,"  396,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  300,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+36,wife,service,"  1,134,000 ","  188,100 ",yearly,"  800,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+45,wife,service,"  385,000 ","  51,125 ",yearly,"  900,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+45,spouse,self-employed,"  770,000 ","  104,500 ",yearly,"  650,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+56,husband,service,"  240,000 ","  52,250 ",yearly,"  648,000 ",married,medical,12,10,traditional,bancassurance,misrepresentation
+43,son,business,"  770,000 ","  104,500 ",yearly,"  624,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+59,wife,retired,"  315,000 ","  52,250 ",yearly,"  700,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,self-employed,"  441,000 ","  101,612 ",yearly,"  600,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  1,995,000 ","  301,995 ",yearly,"  1,200,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  960,000 ","  209,000 ",yearly,"  720,000 ",married,medical,12,10,traditional,bancassurance,misrepresentation
+57,wife,business,"  315,000 ","  52,250 ",yearly,"  600,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+55,wife,service,"  270,000 ","  52,250 ",yearly,"  720,000 ",married,medical,12,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  315,000 ","  52,250 ",yearly,"  550,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+60,spouse,retired,"  480,000 ","  104,500 ",yearly,"  780,000 ",married,medical,12,10,traditional,bancassurance,misrepresentation
+55,son,service,"  270,000 ","  52,250 ",yearly,"  372,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  350,000 ","  52,250 ",yearly,"  960,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+49,wife,business,"  385,000 ","  52,250 ",yearly,"  480,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  385,000 ","  52,250 ",yearly,"  720,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+55,spouse,service,"  700,000 ","  104,500 ",yearly,"  600,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+46,wife,agriculturist,"  385,000 ","  52,250 ",yearly,"  420,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  1,200,000 ","  261,250 ",yearly,"  2,000,000 ",married,medical,12,10,traditional,bancassurance,misrepresentation
+57,wife,self-employed,"  630,000 ","  104,500 ",yearly,"  480,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,business,"  315,000 ","  52,250 ",yearly,"  450,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  280,800 ","  54,340 ",yearly,"  650,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+59,son,service,"  960,000 ","  209,000 ",yearly,"  2,400,000 ",married,medical,12,10,traditional,bancassurance,misrepresentation
+56,spouse,service,"  315,000 ","  52,250 ",yearly,"  756,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  720,000 ","  156,750 ",yearly,"  1,000,000 ",married,medical,12,10,traditional,bancassurance,misrepresentation
+57,son,service,"  480,000 ","  104,500 ",yearly,"  720,000 ",widowed,medical,12,10,traditional,bancassurance,misrepresentation
+60,grand son,retired,"  315,000 ","  52,250 ",yearly,"  420,000 ",widowed,medical,15,10,traditional,institutional alliance,misrepresentation
+48,wife,self-employed,"  385,000 ","  52,250 ",yearly,"  480,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  350,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+51,wife,service,"  270,000 ","  52,250 ",yearly,"  912,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+59,son,retired,"  630,000 ","  104,500 ",yearly,"  700,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  315,000 ","  52,250 ",yearly,"  420,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+51,son,service,"  270,000 ","  52,250 ",yearly,"  800,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+49,son,service,"  385,000 ","  52,250 ",yearly,"  960,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+47,wife,service,"  300,000 ","  53,295 ",monthly,"  480,000 ",married,non medical,12,10,traditional,bancassurance,misrepresentation
+53,son,service,"  350,000 ","  52,250 ",yearly,"  1,200,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  385,000 ","  52,250 ",yearly,"  900,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  630,000 ","  104,500 ",yearly,"  504,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+53,son,service,"  350,000 ","  52,250 ",yearly,"  650,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+58,son,service,"  441,000 ","  73,150 ",yearly,"  500,000 ",widowed,medical,15,10,traditional,bancassurance,misrepresentation
+58,wife,service,"  315,000 ","  52,250 ",yearly,"  960,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  350,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+53,spouse,service,"  399,000 ","  60,399 ",yearly,"  960,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  315,000 ","  52,250 ",yearly,"  500,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+54,wife,service,"  350,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+60,spouse,retired,"  907,200 ","  150,480 ",yearly,"  700,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+56,spouse,service,"  315,000 ","  52,250 ",yearly,"  500,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+47,spouse,agriculturist,"  385,000 ","  52,250 ",yearly,"  350,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+42,spouse,housewife,"  385,000 ","  52,250 ",yearly,"  200,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+59,spouse,service,"  630,000 ","  104,500 ",yearly,"  600,000 ",married,medical,15,10,traditional,bancassurance,misrepresentation
+42,spouse,service,"  385,000 ","  52,250 ",yearly,"  700,000 ",married,non medical,15,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  1,550,000 ","  25,021 ",yearly,"  801,600 ",married,medical,5,10,traditional,bancassurance,misrepresentation
+41,wife,service,"  1,000,000 ","  10,785 ",yearly,"  360,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  500,000 ","  5,888 ",yearly,"  600,000 ",married,medical,5,10,traditional,bancassurance,misrepresentation
+56,son,service,"  950,000 ","  18,127 ",yearly,"  600,000 ",married,medical,5,10,traditional,bancassurance,misrepresentation
+57,son,service,"  500,000 ","  39,147 ",single,"  540,000 ",married,medical,5,10,traditional,retail agency,misrepresentation
+53,son,service,"  1,067,000 ","  103,595 ",yearly,"  600,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+59,husband,agriculturist,"  1,100,000 ","  104,500 ",yearly,"  650,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+59,son,business,"  1,045,000 ","  102,758 ",yearly,"  1,200,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+40,son,service,"  1,100,000 ","  104,500 ",yearly,"  700,000 ",married,non medical,31,10,traditional,bancassurance,misrepresentation
+56,spouse,service,"  550,000 ","  53,295 ",monthly,"  700,000 ",married,medical,23,10,traditional,retail agency,misrepresentation
+53,wife,service,"  550,000 ","  52,250 ",yearly,"  500,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+55,wife,business,"  550,000 ","  52,250 ",yearly,"  642,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+42,spouse,service,"  2,200,000 ","  209,000 ",yearly,"  1,100,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+42,spouse,service,"  2,200,000 ","  209,000 ",yearly,"  1,900,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+54,son,agriculturist,"  990,000 ","  94,050 ",yearly,"  360,000 ",married,non medical,24,10,traditional,retail agency,misrepresentation
+53,spouse,business,"  550,000 ","  52,250 ",yearly,"  504,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+36,wife,business,"  550,000 ","  52,250 ",yearly,"  1,000,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+51,son,service,"  1,980,000 ","  188,100 ",yearly,"  700,000 ",married,non medical,31,10,traditional,retail agency,misrepresentation
+55,wife,service,"  1,331,000 ","  126,445 ",yearly,"  1,000,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+50,son,agriculturist,"  550,000 ","  52,250 ",yearly,"  360,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+55,daughter,service,"  1,045,000 ","  101,994 ",yearly,"  960,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+53,wife,agriculturist,"  550,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+59,wife,service,"  550,000 ","  52,250 ",yearly,"  1,164,000 ",married,medical,23,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  550,000 ","  52,250 ",yearly,"  750,000 ",married,medical,23,10,traditional,bancassurance,misrepresentation
+56,son,agriculturist,"  550,000 ","  52,250 ",yearly,"  300,000 ",married,medical,23,10,traditional,bancassurance,misrepresentation
+58,wife,retired,"  1,100,000 ","  104,500 ",yearly,"  480,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+52,spouse,business,"  550,000 ","  52,250 ",yearly,"  500,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+52,wife,agriculturist,"  550,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+51,spouse,service,"  550,000 ","  52,250 ",yearly,"  1,200,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+55,son,agriculturist,"  550,000 ","  52,250 ",yearly,"  480,000 ",married,non medical,36,10,traditional,bancassurance,misrepresentation
+54,wife,business,"  1,100,000 ","  104,500 ",yearly,"  400,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+49,wife,service,"  550,000 ","  52,250 ",yearly,"  780,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+47,wife,self-employed,"  550,000 ","  52,250 ",yearly,"  348,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+57,wife,agriculturist,"  550,000 ","  52,250 ",yearly,"  450,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+53,son,business,"  2,200,000 ","  209,000 ",yearly,"  600,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+49,son,service,"  550,000 ","  52,250 ",yearly,"  900,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+46,wife,agriculturist,"  550,000 ","  52,250 ",yearly,"  400,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  550,000 ","  52,250 ",yearly,"  720,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+55,wife,service,"  550,000 ","  52,250 ",yearly,"  624,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+53,son,service,"  550,000 ","  52,250 ",yearly,"  800,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+56,son,profession,"  550,000 ","  52,250 ",yearly,"  360,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+54,son,service,"  550,000 ","  52,250 ",yearly,"  984,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+51,wife,business,"  550,000 ","  52,250 ",yearly,"  480,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+57,wife,service,"  1,100,000 ","  104,500 ",yearly,"  840,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+47,wife,service,"  550,000 ","  52,250 ",yearly,"  516,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+54,sister,business,"  550,000 ","  52,250 ",yearly,"  360,000 ",single,non medical,31,10,traditional,retail agency,misrepresentation
+49,wife,agriculturist,"  550,000 ","  52,250 ",yearly,"  504,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  550,000 ","  52,250 ",yearly,"  720,000 ",married,medical,36,10,traditional,bancassurance,misrepresentation
+45,wife,business,"  1,320,000 ","  127,908 ",monthly,"  500,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+52,wife,service,"  550,000 ","  52,250 ",yearly,"  562,872 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+42,spouse,retired,"  550,000 ","  52,250 ",yearly,"  840,000 ",married,medical,23,10,traditional,bancassurance,misrepresentation
+50,wife,service,"  550,000 ","  52,250 ",yearly,"  540,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+54,wife,agriculturist,"  550,000 ","  52,250 ",yearly,"  300,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+60,spouse,self-employed,"  550,000 ","  52,250 ",yearly,"  480,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+46,spouse,business,"  550,000 ","  52,250 ",yearly,"  360,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+56,son,service,"  550,000 ","  52,250 ",yearly,"  720,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+54,son,housewife,"  550,000 ","  52,250 ",yearly,"  660,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+51,son,business,"  550,000 ","  52,250 ",yearly,"  480,000 ",widowed,non medical,26,10,traditional,retail agency,misrepresentation
+57,spouse,business,"  550,000 ","  52,250 ",yearly,"  480,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+58,wife,service,"  550,000 ","  55,704 ",yearly,"  600,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+58,wife,business,"  550,000 ","  56,818 ",monthly,"  480,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+60,wife,retired,"  1,100,000 ","  104,500 ",yearly,"  600,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+57,wife,business,"  1,100,000 ","  104,500 ",yearly,"  960,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+52,wife,business,"  1,650,000 ","  156,750 ",yearly,"  600,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+43,son,business,"  550,000 ","  53,295 ",half yearly,"  480,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+58,wife,retired,"  2,200,000 ","  209,000 ",yearly,"  1,180,000 ",married,medical,36,10,traditional,retail agency,misrepresentation
+51,spouse,service,"  550,000 ","  52,250 ",yearly,"  840,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+59,son,business,"  990,000 ","  94,050 ",yearly,"  600,000 ",married,medical,36,10,traditional,bancassurance,misrepresentation
+48,wife,service,"  550,000 ","  52,250 ",yearly,"  650,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+56,spouse,service,"  550,000 ","  52,250 ",yearly,"  840,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+57,spouse,service,"  2,200,000 ","  217,163 ",yearly,"  1,900,272 ",married,medical,36,10,traditional,retail agency,misrepresentation
+54,daughter,service,"  550,000 ","  52,250 ",yearly,"  840,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+22,mother,business,"  550,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+58,son,service,"  550,000 ","  52,250 ",yearly,"  600,000 ",widowed,medical,36,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  1,100,000 ","  104,500 ",yearly,"  480,000 ",married,medical,23,10,traditional,bancassurance,misrepresentation
+52,wife,agriculturist,"  1,100,000 ","  104,500 ",yearly,"  600,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+59,spouse,retired,"  550,000 ","  52,250 ",yearly,"  600,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+58,son,service,"  550,000 ","  52,250 ",yearly,"  900,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+53,spouse,agriculturist,"  550,000 ","  52,250 ",yearly,"  450,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+47,spouse,business,"  550,000 ","  53,295 ",half yearly,"  300,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+53,wife,service,"  550,000 ","  52,250 ",yearly,"  600,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+56,wife,service,"  550,000 ","  52,250 ",yearly,"  1,200,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+48,spouse,service,"  825,000 ","  78,375 ",yearly,"  420,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+53,wife,service,"  1,100,000 ","  104,500 ",yearly,"  792,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  1,100,000 ","  104,500 ",yearly,"  1,080,000 ",married,non medical,23,10,traditional,bancassurance,misrepresentation
+60,wife,service,"  1,100,000 ","  104,500 ",yearly,"  600,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+52,son,self-employed,"  550,000 ","  52,250 ",yearly,"  500,000 ",married,non medical,26,10,traditional,retail agency,misrepresentation
+49,wife,service,"  550,000 ","  52,250 ",yearly,"  540,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+30,spouse,service,0 ,"  50,000 ",yearly,"  348,000 ",married,non medical,10,10,pension,bancassurance,misrepresentation
+53,wife,service,"  400,000 ","  41,800 ",yearly,"  720,000 ",married,non medical,47,10,traditional,bancassurance,misrepresentation
+51,wife,self-employed,"  300,000 ","  31,977 ",half yearly,"  300,000 ",married,non medical,49,10,traditional,bancassurance,misrepresentation
+43,wife,service,"  400,000 ","  41,800 ",yearly,"  540,000 ",married,non medical,57,10,traditional,bancassurance,misrepresentation
+55,spouse,service,"  500,000 ","  52,250 ",yearly,"  540,000 ",married,non medical,45,10,traditional,bancassurance,misrepresentation
+50,brother,service,"  500,000 ","  52,250 ",yearly,"  900,000 ",single,non medical,50,10,traditional,bancassurance,misrepresentation
+53,wife,agriculturist,"  300,000 ","  31,350 ",yearly,"  528,000 ",married,non medical,47,10,traditional,bancassurance,misrepresentation
+42,mother,self-employed,"  2,500,000 ","  12,936 ",yearly,"  250,000 ",single,medical,30,10,non par,retail agency,misrepresentation
+51,son,self-employed,"  180,000 ","  15,400 ",yearly,"  220,000 ",married,non medical,14,10,traditional,retail agency,misrepresentation
+34,wife,agriculturist,"  105,000 ","  6,273 ",quarterly,"  216,000 ",married,non medical,20,10,traditional,retail agency,misrepresentation
+54,son,business,"  100,000 ","  12,348 ",monthly,"  180,000 ",married,non medical,10,10,traditional,retail agency,misrepresentation
+50,wife,service,"  169,000 ","  20,082 ",yearly,"  300,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,wife,service,"  350,000 ","  25,770 ",quarterly,"  250,000 ",married,non medical,16,10,traditional,retail agency,misrepresentation
+54,wife,service,"  165,000 ","  20,027 ",yearly,"  672,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+52,wife,service,"  122,000 ","  14,604 ",yearly,"  360,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+49,son,service,"  100,000 ","  8,187 ",yearly,"  640,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+38,wife,business,"  800,000 ","  32,270 ",yearly,"  300,000 ",married,medical,25,10,traditional,retail agency,misrepresentation
+51,wife,service,"  210,000 ","  25,070 ",yearly,"  540,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+30,spouse,service,"  75,000 ","  8,769 ",yearly,"  300,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+34,wife,agriculturist,"  450,000 ","  29,931 ",yearly,"  500,000 ",married,non medical,17,10,traditional,institutional alliance,misrepresentation
+42,spouse,business,"  420,000 ","  24,291 ",monthly,"  300,000 ",married,medical,23,10,traditional,retail agency,misrepresentation
+52,son,service,"  250,000 ","  29,997 ",yearly,"  480,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+53,son,service,"  150,000 ","  18,097 ",yearly,"  372,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+38,wife,business,"  650,000 ","  40,585 ",yearly,"  340,000 ",married,medical,20,10,traditional,retail agency,misrepresentation
+43,spouse,self-employed,"  490,000 ","  31,588 ",half yearly,"  250,000 ",married,medical,20,10,traditional,retail agency,misrepresentation
+51,wife,service,"  125,000 ","  15,217 ",yearly,"  376,800 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+47,son,agriculturist,"  500,000 ","  38,085 ",yearly,"  480,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+48,spouse,business,"  120,000 ","  12,052 ",yearly,"  350,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+50,wife,business,"  150,000 ","  15,039 ",yearly,"  360,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+47,son,housewife,"  350,000 ","  33,470 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+47,wife,business,"  700,000 ","  52,483 ",yearly,"  340,000 ",married,medical,15,10,traditional,retail agency,misrepresentation
+53,son,business,"  200,000 ","  20,087 ",yearly,"  420,000 ",married,non medical,12,10,traditional,retail agency,misrepresentation
+48,wife,agriculturist,"  210,000 ","  20,598 ",yearly,"  300,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+53,daughter,self-employed,"  240,000 ","  26,241 ",yearly,"  360,000 ",married,non medical,11,10,traditional,retail agency,misrepresentation
+46,wife,service,"  750,000 ","  72,599 ",quarterly,"  370,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+54,son,service,"  271,000 ","  29,934 ",yearly,"  600,000 ",married,non medical,11,10,traditional,retail agency,misrepresentation
+29,brother,business,"  1,000,000 ","  52,355 ",yearly,"  420,000 ",single,non medical,20,10,traditional,retail agency,misrepresentation
+48,spouse,business,"  800,000 ","  62,061 ",half yearly,"  480,000 ",married,non medical,17,10,traditional,retail agency,misrepresentation
+54,wife,business,"  3,800,000 ","  44,939 ",yearly,"  1,200,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+41,son,service,"  1,000,000 ","  100,000 ",yearly,"  500,000 ",married,non medical,16,10,ulip,bancassurance,misrepresentation
+43,son,business,"  500,000 ","  50,000 ",yearly,"  300,000 ",married,non medical,14,10,ulip,bancassurance,misrepresentation
+52,daughter,business,"  510,000 ","  51,000 ",yearly,"  300,000 ",married,medical,13,10,ulip,retail agency,misrepresentation
+50,wife,defense retired,"  1,500,000 ","  150,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+53,wife,service,"  1,750,000 ","  250,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+56,son,service,"  1,875,000 ","  1,500,000 ",single,"  1,800,000 ",married,medical,10,10,ulip,bancassurance,misrepresentation
+41,spouse,service,"  4,070,000 ","  690,489 ",yearly,"  2,400,000 ",married,medical,7,10,traditional,bancassurance,signature forgery
+44,spouse,business,"  987,000 ","  98,379 ",yearly,"  2,400,000 ",married,non medical,10,10,pension,bancassurance,signature forgery
+23,mother,service,"  2,000,000 ","  110,044 ",yearly,"  720,000 ",single,non medical,17,10,pension,bancassurance,document tampering
+53,wife,business,0 ,"  600,000 ",yearly,"  2,000,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+66,son,retired,0 ,"  1,000,000 ",yearly,"  4,000,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+66,wife,retired,0 ,"  500,000 ",yearly,"  90,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+54,son,housewife,0 ,"  1,000,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+59,wife,retired,0 ,"  1,400,000 ",yearly,"  1,800,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+57,husband,retired,0 ,"  70,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,misappropriating funds
+45,son,service,0 ,"  2,000,000 ",yearly,"  700,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+31,husband,housewife,0 ,"  200,000 ",yearly,"  900,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+57,spouse,retired,0 ,"  300,000 ",yearly,"  800,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+58,husband,housewife,0 ,"  60,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,misappropriating funds
+53,son,family pension,0 ,"  150,000 ",yearly,"  500,000 ",widowed,non medical,10,10,ulip,retail agency,misappropriating funds
+60,wife,retired,0 ,"  3,000,000 ",yearly,"  6,500,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+67,husband,housewife,0 ,"  1,000,000 ",yearly,"  6,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+47,husband,service,0 ,"  100,000 ",yearly,"  900,000 ",married,non medical,10,10,ulip,retail agency,misappropriating funds
+49,husband,service,0 ,"  100,000 ",yearly,"  720,000 ",married,non medical,10,10,ulip,retail agency,misappropriating funds
+60,spouse,retired,0 ,"  1,000,000 ",yearly,"  4,032,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+50,husband,service,0 ,"  100,000 ",yearly,"  720,000 ",married,non medical,15,10,ulip,retail agency,misappropriating funds
+59,daughter,service,0 ,"  261,000 ",yearly,"  3,500,000 ",divorced,non medical,10,10,ulip,retail agency,misappropriating funds
+61,spouse,retired,0 ,"  200,000 ",yearly,"  600,000 ",married,non medical,15,10,ulip,retail agency,logging in business not sourced by oneself
+55,brother,business,0 ,"  600,000 ",yearly,"  2,400,000 ",single,non medical,20,10,ulip,retail agency,document tampering
+38,son,service,0 ,"  1,500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+63,nephew,retired,0 ,"  200,000 ",yearly,"  1,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+70,son,profession,0 ,"  3,000,000 ",yearly,"  3,600,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+53,wife,business,0 ,"  400,000 ",yearly,"  1,050,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+46,daughter,business,0 ,"  1,000,000 ",yearly,"  5,400,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+38,wife,profession,0 ,"  1,000,000 ",yearly,"  6,000,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+60,son,retired,0 ,"  320,000 ",yearly,"  1,200,000 ",widowed,non medical,10,10,ulip,retail agency,misappropriating funds
+60,husband,self-employed,0 ,"  400,000 ",yearly,"  1,100,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+68,son,profession,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,retail agency,impersonation
+54,wife,service,0 ,"  300,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+67,wife,retired,0 ,"  400,000 ",yearly,"  1,300,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+43,mother,agriculturist,0 ,"  3,100,000 ",yearly,"  8,100,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+60,wife,retired,0 ,"  600,000 ",yearly,"  6,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+57,husband,housewife,0 ,"  600,000 ",yearly,"  4,000,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+55,husband,retired,0 ,"  500,000 ",yearly,"  6,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+58,wife,retired,0 ,"  500,000 ",yearly,"  1,800,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+31,husband,service,"  4,200,000 ","  600,000 ",yearly,"  2,000,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+54,son,service,0 ,"  1,000,000 ",yearly,"  14,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+65,wife,service,0 ,"  500,000 ",yearly,"  3,600,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+60,wife,retired,0 ,"  200,000 ",yearly,"  1,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+61,son,retired,0 ,"  500,000 ",yearly,"  1,376,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+70,daughter,self-employed,0 ,"  100,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+53,husband,service,0 ,"  1,000,000 ",yearly,"  7,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+70,wife,service,0 ,"  400,000 ",yearly,"  1,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+63,daughter,housewife,0 ,"  500,000 ",yearly,"  2,400,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+63,son,retired,0 ,"  500,000 ",yearly,"  2,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+63,son,retired,0 ,"  500,000 ",yearly,"  2,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+65,wife,service,"  4,200,000 ","  600,000 ",yearly,"  8,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+51,wife,service,0 ,"  300,000 ",half yearly,"  400,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+41,spouse,service,0 ,"  500,000 ",yearly,"  2,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+69,daughter,retired,0 ,"  500,000 ",yearly,"  1,300,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+61,spouse,business,0 ,"  400,000 ",yearly,"  22,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+60,husband,retired,0 ,"  100,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,misappropriating funds
+64,son,retired,0 ,"  700,000 ",yearly,"  4,800,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+61,daughter,retired,0 ,"  600,000 ",yearly,"  8,258,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+53,son,housewife,0 ,"  900,000 ",yearly,"  2,780,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+63,sister,retired,0 ,"  700,000 ",yearly,"  3,680,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+65,sister,retired,0 ,"  1,000,000 ",yearly,"  700,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+70,wife,business,0 ,"  1,501,000 ",yearly,"  7,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+61,son,retired,0 ,"  400,000 ",yearly,"  1,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+60,son,housewife,0 ,"  1,000,000 ",yearly,"  7,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+55,wife,business,0 ,"  1,000,000 ",yearly,"  5,000,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+55,wife,business,0 ,"  1,000,000 ",yearly,"  5,000,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+65,son,retired,0 ,"  700,000 ",yearly,"  6,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+68,brother,retired,0 ,"  500,000 ",yearly,"  3,600,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+61,wife,retired,0 ,"  1,000,000 ",yearly,"  3,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+29,father,agriculturist,"  475,000 ","  5,000 ",yearly,"  240,000 ",single,non medical,15,10,traditional,retail agency,claims fraud
+45,spouse,business,"  200,000 ","  5,000 ",yearly,"  190,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+42,mother,business,"  400,000 ","  5,000 ",yearly,"  700,000 ",single,non medical,10,10,traditional,retail agency,misappropriating funds
+42,son,business,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,medical,15,10,traditional,retail agency,claims fraud
+42,spouse,agriculturist,"  175,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,10,10,traditional,retail agency,claims fraud
+43,father,profession,"  175,000 ","  5,000 ",yearly,"  1,000,000 ",married,non medical,10,10,traditional,retail agency,misselling 
+29,wife,agriculturist,"  475,000 ","  5,000 ",yearly,"  400,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+47,wife,self-employed,"  125,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,impersonation
+28,mother,business,"  475,000 ","  5,000 ",yearly,"  225,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+42,spouse,self-employed,"  150,000 ","  5,000 ",yearly,"  450,000 ",married,non medical,15,10,traditional,retail agency,document tampering
+60,son,retired,"  999,000 ","  99,900 ",yearly,"  475,000 ",married,medical,10,3,ulip,retail agency,kickback
+33,father,profession,"  2,500,000 ","  250,000 ",yearly,"  1,300,000 ",single,non medical,10,10,ulip,retail agency,document tampering
+52,husband,housewife,"  750,000 ","  75,000 ",yearly,"  720,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+29,father,service,"  1,500,000 ","  100,000 ",yearly,"  620,000 ",single,non medical,20,10,ulip,retail agency,document tampering
+37,husband,housewife,"  500,000 ","  50,000 ",yearly,"  300,000 ",married,non medical,10,10,ulip,bancassurance,misappropriating funds
+53,wife,profession,"  999,000 ","  99,900 ",yearly,"  350,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+41,spouse,business,"  500,000 ","  50,000 ",yearly,"  500,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+41,son,housewife,"  990,000 ","  99,000 ",yearly,"  600,000 ",married,medical,12,10,ulip,bancassurance,signature forgery
+39,husband,business,"  500,000 ","  50,000 ",yearly,"  400,000 ",married,non medical,12,10,ulip,retail agency,document tampering
+25,mother,service,"  2,500,000 ","  250,000 ",yearly,"  1,500,000 ",single,non medical,12,10,ulip,institutional alliance,document tampering
+25,mother,service,"  1,000,000 ","  100,000 ",yearly,"  1,500,000 ",single,non medical,12,10,ulip,institutional alliance,document tampering
+36,husband,service,"  1,000,000 ","  100,000 ",yearly,"  1,800,000 ",married,non medical,12,10,ulip,retail agency,signature forgery
+25,mother,service,"  2,500,000 ","  250,000 ",yearly,"  1,500,000 ",single,non medical,12,10,ulip,institutional alliance,document tampering
+20,brother,service,"  1,500,000 ","  150,000 ",yearly,"  800,000 ",single,non medical,12,10,ulip,bancassurance,document tampering
+47,son,service,"  300,000 ","  30,000 ",yearly,"  450,000 ",divorced,non medical,12,10,ulip,bancassurance,misappropriating funds
+43,father,profession,"  1,250,000 ","  125,000 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,retail agency,misselling 
+52,wife,service,"  1,500,000 ","  150,000 ",yearly,"  6,000,000 ",married,medical,12,10,ulip,bancassurance,signature forgery
+46,son,housewife,"  600,000 ","  60,000 ",yearly,"  1,200,000 ",married,non medical,15,10,ulip,retail agency,document tampering
+35,wife,service,"  500,000 ","  50,000 ",yearly,"  450,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+31,mother,business,"  990,000 ","  99,000 ",yearly,"  490,000 ",single,non medical,12,10,ulip,bancassurance,misappropriating funds
+45,wife,service,"  450,000 ","  45,000 ",yearly,"  504,000 ",married,non medical,12,10,ulip,bancassurance,document tampering
+33,mother,service,"  500,000 ","  50,000 ",yearly,"  650,000 ",single,non medical,30,10,ulip,retail agency,misappropriating funds
+27,daughter,business,"  300,000 ","  30,000 ",yearly,"  420,000 ",widowed,non medical,12,10,ulip,retail agency,document tampering
+35,mother,service,"  600,000 ","  60,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+38,husband,housewife,"  500,000 ","  50,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+40,father,profession,"  2,500,000 ","  250,000 ",yearly,"  2,400,000 ",married,medical,12,10,ulip,retail agency,document tampering
+40,father,profession,"  2,500,000 ","  250,000 ",yearly,"  2,400,000 ",married,non medical,12,10,ulip,retail agency,document tampering
+52,husband,service,"  2,500,000 ","  250,000 ",yearly,"  6,000,000 ",married,non medical,12,10,ulip,retail agency,document tampering
+55,spouse,service,"  248,750 ","  199,000 ",single,"  11,400,000 ",married,medical,12,10,ulip,bancassurance,document tampering
+13,spouse,business,"  1,000,000 ","  100,000 ",yearly,"  500,000 ",married,non medical,12,10,ulip,bancassurance,document tampering
+38,father,business,"  2,500,000 ","  250,000 ",yearly,"  1,800,000 ",single,non medical,12,10,ulip,retail agency,document tampering
+36,son,service,"  1,000,000 ","  100,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,document tampering
+54,son,agriculturist,"  400,000 ","  40,000 ",yearly,"  240,000 ",married,non medical,12,10,ulip,retail agency,document tampering
+39,son,business,"  300,000 ","  30,000 ",yearly,"  295,000 ",married,non medical,12,10,ulip,retail agency,document tampering
+38,spouse,housewife,"  1,000,000 ","  100,000 ",yearly,"  490,000 ",married,non medical,15,10,ulip,retail agency,document tampering
+42,spouse,housewife,"  1,000,000 ","  100,000 ",yearly,"  300,000 ",married,non medical,15,10,ulip,retail agency,document tampering
+11,spouse,business,"  2,500,000 ","  250,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,retail agency,document tampering
+3,spouse,business,"  2,500,000 ","  250,000 ",yearly,"  1,200,000 ",married,non medical,15,10,ulip,retail agency,document tampering
+42,spouse,service,"  2,210,000 ","  221,000 ",yearly,"  820,000 ",married,medical,12,10,ulip,retail agency,document tampering
+38,father,service,"  500,000 ","  50,000 ",yearly,"  1,000,000 ",married,non medical,5,10,variable,bancassurance,document tampering
+60,wife,retired,"  1,000,000 ","  100,000 ",yearly,"  300,000 ",married,medical,5,10,variable,bancassurance,claims fraud
+40,wife,service,"  500,000 ","  50,000 ",yearly,"  420,000 ",married,non medical,7,10,variable,bancassurance,misappropriating funds
+33,brother,service,"  100,000 ","  9,034 ",yearly,"  350,000 ",married,non medical,15,10,traditional,retail agency,agent dual pan card
+46,husband,service,"  100,000 ","  11,457 ",yearly,"  600,000 ",married,non medical,12,10,traditional,retail agency,document tampering
+41,spouse,service,"  1,830,000 ","  197,279 ",yearly,"  2,400,000 ",married,medical,12,10,traditional,bancassurance,signature forgery
+24,mother,business,"  44,000 ","  11,309 ",monthly,"  300,000 ",married,non medical,12,10,traditional,retail agency,document tampering
+54,wife,service,"  850,000 ","  103,419 ",quarterly,"  600,000 ",married,medical,12,10,traditional,retail agency,signature forgery
+41,wife,service,"  320,000 ","  29,104 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,document tampering
+47,son,service,"  2,600,000 ","  200,053 ",yearly,"  1,256,000 ",married,medical,18,10,traditional,retail agency,signature forgery
+42,spouse,service,"  1,100,000 ","  59,268 ",yearly,"  660,000 ",married,non medical,21,10,traditional,retail agency,document tampering
+43,wife,service,"  600,000 ","  19,700 ",yearly,"  840,000 ",married,non medical,10,10,traditional,bancassurance,misselling 
+47,spouse,service,"  3,000,000 ","  64,205 ",yearly,"  1,256,000 ",married,medical,27,10,traditional,retail agency,signature forgery
+42,spouse,business,"  5,000,000 ","  53,086 ",yearly,"  504,000 ",married,medical,30,10,traditional,institutional alliance,document tampering
+30,wife,business,"  1,250,000 ","  16,002 ",yearly,"  420,000 ",married,non medical,10,10,traditional,retail agency,document tampering
+42,spouse,retired,"  500,000 ","  44,638 ",yearly,"  900,000 ",married,medical,10,10,traditional,bancassurance,impersonation
+42,spouse,service,"  2,500,000 ","  52,041 ",yearly,"  900,000 ",married,non medical,30,10,traditional,bancassurance,document tampering
+45,son,service,"  6,000,000 ","  600,000 ",yearly,"  700,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+37,son,service,"  6,000,000 ","  600,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+48,husband,service,"  15,000,000 ","  1,500,000 ",yearly,"  6,000,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+49,husband,service,"  4,200,000 ","  600,000 ",yearly,"  3,000,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+38,wife,profession,"  7,000,000 ","  1,000,000 ",yearly,"  6,000,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+36,wife,army,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",married,non medical,30,10,ulip,bancassurance,signature forgery
+53,son,agriculturist,"  7,000,000 ","  1,000,000 ",yearly,"  1,500,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+46,daughter,service,"  4,200,000 ","  600,000 ",yearly,"  6,000,000 ",married,non medical,20,10,ulip,retail agency,document tampering
+41,father,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  800,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+49,spouse,service,"  4,200,000 ","  600,000 ",yearly,"  1,800,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+45,daughter,service,"  7,000,000 ","  1,000,000 ",yearly,"  2,500,000 ",married,non medical,11,10,ulip,bancassurance,document tampering
+41,father,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,600,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+44,spouse,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+42,mother,service,"  4,200,000 ","  600,000 ",yearly,"  6,000,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+22,mother,student,"  7,000,000 ","  1,000,000 ",yearly,"  7,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+44,daughter,service,"  7,000,000 ","  1,000,000 ",yearly,"  7,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+34,wife,service,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+22,mother,service,"  4,200,000 ","  600,000 ",yearly,"  1,450,000 ",single,non medical,30,10,ulip,retail agency,document tampering
+39,husband,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,350,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+42,wife,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,250,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+54,daughter,agriculturist,"  750,000 ","  600,000 ",single,"  1,200,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+45,sister,service,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",single,non medical,15,10,ulip,bancassurance,document tampering
+28,daughter,service,"  7,000,000 ","  1,000,000 ",yearly,"  2,500,000 ",widowed,non medical,10,10,ulip,bancassurance,document tampering
+54,spouse,service,"  4,200,000 ","  600,000 ",yearly,"  1,000,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+44,wife,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  2,112,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+46,father,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,872,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+26,father,service,"  4,200,000 ","  600,000 ",yearly,"  1,600,000 ",single,non medical,30,10,ulip,retail agency,document tampering
+42,spouse,business,"  5,600,000 ","  800,000 ",yearly,"  2,100,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+42,mother,service,"  7,000,000 ","  1,000,000 ",yearly,"  4,000,000 ",married,non medical,10,10,ulip,retail agency,document tampering
+50,spouse,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",married,non medical,20,10,ulip,bancassurance,document tampering
+23,mother,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,480,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+35,spouse,profession,"  5,600,000 ","  800,000 ",quarterly,"  4,200,000 ",married,non medical,20,10,ulip,retail agency,document tampering
+30,father,service,"  4,200,000 ","  600,000 ",yearly,"  2,000,000 ",married,non medical,20,10,ulip,retail agency,document tampering
+41,wife,service,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",married,medical,15,10,ulip,bancassurance,document tampering
+43,son,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+50,spouse,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+48,brother,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",single,non medical,15,10,ulip,bancassurance,document tampering
+27,father,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  800,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+54,husband,service,"  4,200,000 ","  600,000 ",yearly,"  1,200,000 ",married,medical,10,10,ulip,bancassurance,signature forgery
+41,mother,service,"  4,200,000 ","  600,000 ",yearly,"  4,200,000 ",married,non medical,20,10,ulip,retail agency,document tampering
+49,husband,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,600,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+48,wife,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  2,400,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+53,husband,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  1,020,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+42,spouse,service,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+33,father,service,"  10,500,000 ","  1,500,000 ",yearly,"  4,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+42,mother,service,"  14,000,000 ","  2,000,000 ",half yearly,"  5,000,000 ",single,medical,15,10,ulip,retail agency,document tampering
+42,spouse,business,"  35,000,000 ","  5,000,000 ",yearly,"  100,000,000 ",married,medical,10,10,ulip,bancassurance,document tampering
+42,spouse,retired,"  7,000,000 ","  1,000,000 ",yearly,"  3,600,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+35,son,business,"  12,600,000 ","  1,800,000 ",yearly,"  6,000,000 ",married,non medical,20,10,ulip,bancassurance,document tampering
+46,spouse,business,"  9,450,000 ","  1,350,000 ",yearly,"  6,000,000 ",married,non medical,24,10,ulip,bancassurance,document tampering
+34,wife,business,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",married,non medical,30,10,ulip,retail agency,document tampering
+42,spouse,service,"  10,500,000 ","  1,500,000 ",yearly,"  2,880,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+42,spouse,self-employed,"  4,200,000 ","  600,000 ",yearly,"  2,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+38,spouse,service,"  750,000 ","  600,000 ",single,"  1,200,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+42,spouse,service,"  4,200,000 ","  600,000 ",yearly,"  1,800,000 ",married,medical,10,10,ulip,bancassurance,signature forgery
+39,wife,agriculturist,"  400,000 ","  50,974 ",yearly,"  240,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+12,spouse,business,"  236,000 ","  33,410 ",yearly,"  504,000 ",married,non medical,12,10,traditional,institutional alliance,misselling 
+47,husband,housewife,"  145,000 ","  24,155 ",yearly,"  500,000 ",married,non medical,12,10,traditional,retail agency,document tampering
+48,husband,housewife,"  250,000 ","  41,593 ",yearly,"  396,000 ",married,non medical,12,10,traditional,retail agency,signature forgery
+34,mother,service,"  1,920,000 ","  293,636 ",yearly,"  2,400,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+47,spouse,agriculturist,"  228,000 ","  31,305 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+28,mother,service,"  600,000 ","  60,000 ",monthly,"  310,000 ",single,non medical,10,10,ulip,retail agency,misappropriating funds
+31,father,business,"  600,000 ","  60,000 ",monthly,"  500,000 ",single,non medical,15,10,ulip,retail agency,signature forgery
+37,mother,retired,"  240,000 ","  51,125 ",yearly,"  240,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+42,wife,business,"  385,000 ","  52,250 ",yearly,"  240,000 ",married,non medical,15,10,traditional,bancassurance,signature forgery
+27,mother,service,"  1,260,000 ","  153,375 ",yearly,"  1,500,000 ",married,non medical,15,10,traditional,retail agency,misappropriating funds
+34,mother,housewife,"  1,260,000 ","  153,375 ",yearly,"  500,000 ",married,non medical,15,10,traditional,retail agency,misappropriating funds
+28,mother,housewife,"  1,260,000 ","  153,375 ",yearly,"  480,000 ",married,non medical,15,10,traditional,retail agency,misappropriating funds
+30,sister,service,"  3,360,000 ","  418,000 ",yearly,"  1,200,000 ",single,non medical,15,10,traditional,bancassurance,signature forgery
+46,wife,defense retired,"  385,000 ","  51,125 ",yearly,"  420,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+7,spouse,service,"  646,800 ","  102,410 ",yearly,"  3,500,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+7,spouse,service,"  646,800 ","  102,410 ",yearly,"  3,500,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+53,son,service,"  518,400 ","  98,160 ",yearly,"  720,000 ",married,medical,12,10,traditional,bancassurance,document tampering
+37,wife,business,"  840,000 ","  104,500 ",yearly,"  480,000 ",married,non medical,15,10,traditional,institutional alliance,unauthorized activity
+45,son,service,"  780,000 ","  135,850 ",yearly,"  3,500,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+42,spouse,business,"  420,000 ","  52,250 ",yearly,"  360,000 ",married,non medical,15,10,traditional,retail agency,document tampering
+50,wife,agriculturist,"  1,800,000 ","  306,750 ",yearly,"  1,020,000 ",married,medical,12,10,traditional,bancassurance,document tampering
+50,wife,service,"  300,000 ","  52,250 ",yearly,"  552,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+59,husband,business,"  960,000 ","  209,000 ",yearly,"  730,000 ",married,medical,12,10,traditional,bancassurance,signature forgery
+39,daughter,service,"  2,520,000 ","  306,750 ",yearly,"  2,000,000 ",married,non medical,15,10,traditional,bancassurance,document tampering
+42,spouse,housewife,"  420,000 ","  52,250 ",yearly,"  2,400,000 ",married,non medical,15,10,traditional,bancassurance,document tampering
+30,sister,service,"  2,520,000 ","  418,000 ",yearly,"  1,300,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+40,wife,agriculturist,"  2,801,000 ","  409,000 ",yearly,"  1,250,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+42,spouse,business,"  10,000,000 ","  20,149 ",yearly,"  1,000,000 ",married,medical,40,10,traditional,bancassurance,document tampering
+40,son,profession,"  10,000,000 ","  22,075 ",yearly,"  2,400,000 ",married,medical,30,10,traditional,retail agency,document tampering
+37,daughter,service,"  10,000,000 ","  40,722 ",yearly,"  600,000 ",married,non medical,48,10,traditional,retail agency,document tampering
+36,husband,profession,"  10,000,000 ","  75,208 ",yearly,"  1,080,000 ",married,non medical,34,10,traditional,retail agency,document tampering
+47,wife,self-employed,"  900,000 ","  12,659 ",yearly,"  525,000 ",married,medical,23,10,traditional,retail agency,claims fraud
+42,spouse,business,"  2,000,000 ","  7,458 ",yearly,"  480,000 ",married,medical,5,10,traditional,institutional alliance,document tampering
+18,mother,business,"  900,000 ","  10,461 ",yearly,"  500,000 ",single,non medical,35,10,traditional,retail agency,claims fraud
+48,wife,retired,0 ,"  2,000,000 ",single,"  600,000 ",married,non medical,72,10,pension,bancassurance,misselling 
+59,wife,service,0 ,"  2,000,000 ",single,"  3,000,000 ",married,non medical,61,10,pension,bancassurance,signature forgery
+68,mother,retired,0 ,"  389,698 ",single,"  2,000,000 ",married,non medical,52,10,pension,mail and others,signature forgery
+67,husband,retired,0 ,"  587,882 ",single,"  420,000 ",married,non medical,53,10,pension,mail and others,signature forgery
+73,daughter,retired,0 ,"  310,167 ",single,"  45,000 ",married,non medical,10,10,pension,mail and others,signature forgery
+76,wife,retired,0 ,"  223,903 ",single,"  600,000 ",married,non medical,44,10,pension,mail and others,signature forgery
+55,son,service,"  2,200,000 ","  210,101 ",yearly,"  1,200,000 ",married,non medical,26,10,traditional,bancassurance,signature forgery
+28,father,service,"  2,200,000 ","  209,000 ",yearly,"  552,000 ",single,non medical,26,10,traditional,retail agency,impersonation
+28,father,business,"  1,100,000 ","  104,500 ",yearly,"  600,000 ",single,non medical,23,10,traditional,retail agency,signature forgery
+25,spouse,service,"  10,516,000 ","  977,510 ",yearly,"  60,000,000 ",married,medical,26,10,traditional,retail agency,document tampering
+45,son,service,"  2,200,000 ","  209,000 ",yearly,"  3,500,000 ",married,medical,36,10,traditional,bancassurance,document tampering
+51,husband,housewife,"  3,146,000 ","  292,435 ",yearly,"  1,000,000 ",married,medical,26,10,traditional,retail agency,document tampering
+40,son,profession,"  3,300,000 ","  313,500 ",yearly,"  2,400,000 ",married,non medical,26,10,traditional,retail agency,document tampering
+42,spouse,business,"  2,200,000 ","  209,000 ",yearly,"  540,000 ",married,medical,26,10,traditional,retail agency,document tampering
+38,wife,business,"  1,100,000 ","  104,500 ",yearly,"  640,000 ",married,non medical,26,10,traditional,retail agency,document tampering
+42,spouse,service,"  5,500,000 ","  522,500 ",yearly,"  4,200,000 ",married,non medical,36,10,traditional,retail agency,document tampering
+55,spouse,agriculturist,"  3,300,000 ","  306,750 ",yearly,"  1,800,000 ",married,non medical,23,10,traditional,bancassurance,document tampering
+42,wife,business,"  1,650,000 ","  159,885 ",half yearly,"  500,000 ",married,medical,36,10,traditional,retail agency,impersonation
+42,mother,self-employed,"  2,200,000 ","  209,000 ",yearly,"  800,000 ",single,non medical,26,10,traditional,retail agency,document tampering
+25,mother,service,"  6,600,000 ","  613,500 ",yearly,"  1,200,000 ",single,non medical,26,10,traditional,retail agency,document tampering
+28,mother,service,"  2,200,000 ","  209,000 ",yearly,"  1,800,000 ",single,non medical,26,10,traditional,retail agency,document tampering
+58,son,business,"  1,595,000 ","  148,263 ",yearly,"  1,440,000 ",married,medical,23,10,traditional,bancassurance,document tampering
+57,son,agriculturist,"  5,500,000 ","  511,250 ",yearly,"  1,500,000 ",married,medical,23,10,traditional,bancassurance,document tampering
+22,father,student,"  11,000,000 ","  1,022,500 ",yearly,"  18,000,000 ",single,non medical,33,10,traditional,bancassurance,document tampering
+20,father,student,"  11,000,000 ","  1,022,500 ",yearly,"  18,000,000 ",single,non medical,33,10,traditional,bancassurance,document tampering
+42,spouse,business,"  1,100,000 ","  104,500 ",yearly,"  240,000 ",married,non medical,36,10,traditional,retail agency,document tampering
+18,father,student,"  1,100,000 ","  102,250 ",yearly,"  1,000,000 ",single,non medical,26,10,traditional,retail agency,document tampering
+50,son,business,"  1,650,000 ","  153,375 ",yearly,"  624,000 ",married,non medical,26,10,traditional,institutional alliance,signature forgery
+12,spouse,business,"  3,300,000 ","  306,750 ",yearly,"  3,000,000 ",married,non medical,36,10,traditional,bancassurance,document tampering
+35,spouse,service,"  3,300,000 ","  306,750 ",yearly,"  900,000 ",married,non medical,26,10,traditional,retail agency,document tampering
+27,husband,service,"  5,500,000 ","  511,250 ",yearly,"  1,500,000 ",married,non medical,26,10,traditional,retail agency,document tampering
+20,father,student,"  5,500,000 ","  511,250 ",yearly,"  12,000,000 ",single,non medical,23,10,traditional,retail agency,document tampering
+5,spouse,agriculturist,"  3,300,000 ","  306,750 ",yearly,"  1,200,000 ",married,non medical,23,10,traditional,bancassurance,document tampering
+25,mother,agriculturist,"  5,500,000 ","  511,250 ",yearly,"  2,500,000 ",widowed,non medical,33,10,traditional,bancassurance,document tampering
+9,spouse,service,"  2,750,000 ","  255,625 ",yearly,"  780,000 ",married,non medical,23,10,traditional,retail agency,document tampering
+44,wife,service,"  5,258,000 ","  478,000 ",yearly,"  9,600,000 ",married,medical,26,10,traditional,bancassurance,signature forgery
+42,spouse,service,"  5,500,000 ","  522,500 ",yearly,"  1,056,000 ",married,non medical,26,10,traditional,retail agency,document tampering
+31,mother,service,"  2,200,000 ","  204,500 ",yearly,"  1,056,000 ",married,non medical,26,10,traditional,retail agency,document tampering
+42,husband,agriculturist,"  5,225,000 ","  485,688 ",yearly,"  1,300,000 ",married,non medical,23,10,traditional,bancassurance,document tampering
+11,spouse,agriculturist,"  5,225,000 ","  485,688 ",yearly,"  1,700,000 ",married,non medical,23,10,traditional,bancassurance,document tampering
+35,spouse,agriculturist,"  5,500,000 ","  511,250 ",yearly,"  1,200,000 ",married,non medical,26,10,traditional,bancassurance,document tampering
+42,spouse,service,"  1,100,000 ","  104,500 ",yearly,"  1,920,000 ",married,non medical,23,10,traditional,bancassurance,document tampering
+14,daughter,service,"  1,100,000 ","  102,250 ",yearly,"  840,000 ",widowed,non medical,26,10,traditional,retail agency,document tampering
+44,husband,housewife,0 ,"  500,000 ",yearly,"  1,500,000 ",married,non medical,10,10,pension,retail agency,document tampering
+58,husband,housewife,0 ,"  500,000 ",yearly,"  1,560,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+54,husband,service,0 ,"  1,400,000 ",yearly,"  3,800,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+51,husband,service,0 ,"  500,000 ",yearly,"  6,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+52,husband,service,"  4,200,000 ","  600,000 ",yearly,"  3,600,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+31,father,service,"  4,200,000 ","  600,000 ",yearly,"  9,600,000 ",single,non medical,15,10,pension,bancassurance,document tampering
+32,wife,business,0 ,"  350,000 ",yearly,"  1,250,000 ",married,non medical,10,10,pension,retail agency,document tampering
+52,daughter,housewife,0 ,"  350,000 ",yearly,"  1,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+34,wife,profession,0 ,"  500,000 ",yearly,"  3,600,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+33,husband,service,0 ,"  200,000 ",yearly,"  1,200,000 ",married,non medical,20,10,pension,retail agency,document tampering
+57,son,service,0 ,"  1,000,000 ",yearly,"  3,600,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+57,son,retired,0 ,"  500,000 ",yearly,"  1,300,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+60,wife,retired,0 ,"  600,000 ",yearly,"  6,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+57,husband,retired,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+48,wife,agriculturist,0 ,"  500,000 ",yearly,"  1,340,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+57,husband,service,0 ,"  400,000 ",yearly,"  1,800,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+57,wife,business,0 ,"  1,000,000 ",yearly,"  3,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+51,spouse,business,0 ,"  400,000 ",yearly,"  1,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+42,spouse,retired,0 ,"  500,000 ",yearly,"  1,500,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+45,daughter,housewife,0 ,"  500,000 ",yearly,"  1,250,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+58,spouse,service,0 ,"  1,000,000 ",yearly,"  2,500,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+58,spouse,service,0 ,"  1,000,000 ",yearly,"  2,500,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+57,wife,retired,0 ,"  1,000,000 ",yearly,"  5,000,000 ",married,non medical,10,10,pension,retail agency,document tampering
+42,father,service,0 ,"  800,000 ",yearly,"  5,000,000 ",married,non medical,10,10,pension,bancassurance,signature forgery
+58,wife,retired,0 ,"  400,000 ",yearly,"  1,580,000 ",married,non medical,10,10,pension,retail agency,misselling 
+58,wife,service,0 ,"  1,000,000 ",yearly,"  3,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+42,husband,business,0 ,"  1,000,000 ",yearly,"  4,800,000 ",married,non medical,10,10,pension,bancassurance,misselling 
+51,husband,service,0 ,"  500,000 ",yearly,"  3,600,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+48,wife,service,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+60,wife,service,0 ,"  500,000 ",yearly,"  36,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+58,wife,retired,0 ,"  200,000 ",yearly,"  1,200,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+56,spouse,service,0 ,"  2,000,000 ",yearly,"  230,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+51,husband,service,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+42,wife,service,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+23,spouse,service,0 ,"  500,000 ",yearly,"  3,600,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+58,wife,agriculturist,0 ,"  300,000 ",yearly,"  1,000,000 ",married,non medical,10,10,pension,retail agency,document tampering
+47,spouse,service,0 ,"  1,200,000 ",yearly,"  6,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+60,spouse,service,0 ,"  500,000 ",yearly,"  24,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+55,spouse,retired,0 ,"  600,000 ",yearly,"  2,400,000 ",married,non medical,15,10,pension,bancassurance,document tampering
+58,wife,retired,0 ,"  400,000 ",yearly,"  1,200,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+47,son,service,0 ,"  500,000 ",yearly,"  6,000,000 ",married,non medical,15,10,pension,bancassurance,document tampering
+57,spouse,business,0 ,"  600,000 ",yearly,"  2,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+21,brother,service,0 ,"  500,000 ",yearly,"  1,500,000 ",single,non medical,10,10,pension,bancassurance,document tampering
+58,nephew,retired,0 ,"  1,500,000 ",yearly,"  6,000,000 ",single,non medical,10,10,pension,bancassurance,document tampering
+53,mother,service,0 ,"  500,000 ",yearly,"  6,000,000 ",married,non medical,15,10,pension,bancassurance,document tampering
+60,husband,retired,0 ,"  500,000 ",yearly,"  3,600,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+37,wife,service,0 ,"  360,000 ",yearly,"  1,200,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+51,mother,service,0 ,"  750,000 ",yearly,"  4,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+60,husband,housewife,0 ,"  500,000 ",yearly,"  2,400,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+42,spouse,profession,0 ,"  2,500,000 ",yearly,"  9,000,000 ",married,non medical,15,10,pension,bancassurance,document tampering
+56,son,service,0 ,"  400,000 ",yearly,"  1,182,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+45,father,business,0 ,"  200,000 ",yearly,"  850,000 ",married,non medical,10,10,pension,retail agency,document tampering
+58,wife,retired,0 ,"  1,000,000 ",yearly,"  2,500,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+32,daughter,service,0 ,"  500,000 ",yearly,"  1,300,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+47,daughter,service,0 ,"  500,000 ",yearly,"  1,300,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+58,spouse,retired,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+38,father,business,0 ,"  500,000 ",yearly,"  1,800,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+42,daughter,self-employed,0 ,"  200,000 ",yearly,"  600,000 ",widowed,non medical,10,10,pension,bancassurance,document tampering
+55,son,business,0 ,"  50,000 ",yearly,"  500,000 ",married,non medical,10,10,pension,retail agency,signature forgery
+42,spouse,housewife,0 ,"  400,000 ",yearly,"  1,500,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+45,spouse,service,0 ,"  1,000,000 ",yearly,"  4,800,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+42,spouse,housewife,0 ,"  600,000 ",yearly,"  2,400,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+21,mother,service,"  10,000,000 ","  1,022,500 ",yearly,"  1,800,000 ",single,non medical,79,10,traditional,bancassurance,document tampering
+20,mother,student,"  300,000 ","  30,675 ",yearly,"  300,000 ",single,non medical,80,10,traditional,retail agency,document tampering
+28,father,business,"  4,000,000 ","  418,000 ",yearly,"  1,800,000 ",single,non medical,72,10,traditional,bancassurance,document tampering
+46,husband,service,"  1,357,000 ","  188,190 ",yearly,"  5,000,000 ",married,non medical,8,10,traditional,institutional alliance,signature forgery
+31,spouse,service,"  550,000 ","  88,270 ",yearly,"  300,000 ",married,non medical,7,10,traditional,bancassurance,signature forgery
+49,spouse,service,"  75,000 ","  8,005 ",yearly,"  200,000 ",married,non medical,11,10,traditional,bancassurance,claims fraud
+41,wife,self-employed,"  600,000 ","  52,000 ",yearly,"  14,400,000 ",married,non medical,15,10,traditional,bancassurance,signature forgery
+43,father,profession,"  1,430,000 ","  104,500 ",yearly,"  1,000,000 ",married,non medical,15,10,traditional,retail agency,misselling 
+45,wife,agriculturist,"  450,000 ","  35,256 ",quarterly,"  290,000 ",married,medical,15,10,traditional,retail agency,impersonation
+39,husband,housewife,"  2,740,000 ","  195,779 ",yearly,"  7,500,000 ",married,non medical,15,10,traditional,retail agency,misselling 
+33,wife,agriculturist,"  1,000,000 ","  52,647 ",yearly,"  400,000 ",married,medical,20,10,traditional,retail agency,claims fraud
+55,son,self-employed,"  215,000 ","  25,706 ",yearly,"  350,000 ",married,non medical,10,10,traditional,institutional alliance,document tampering
+49,husband,housewife,"  500,000 ","  38,581 ",yearly,"  420,000 ",married,medical,15,10,traditional,retail agency,claims fraud
+21,spouse,agriculturist,"  500,000 ","  50,000 ",yearly,"  200,000 ",married,non medical,9,10,ulip,retail agency,document tampering
+48,wife,service,"  2,500,000 ","  10,918 ",yearly,"  960,000 ",married,medical,10,10,traditional,bancassurance,document tampering
+56,wife,business,"  15,000,000 ","  163,136 ",yearly,"  6,000,000 ",married,medical,24,10,traditional,retail agency,document tampering
+44,son,self-employed,"  500,000 ","  50,000 ",yearly,"  300,000 ",married,non medical,18,10,ulip,retail agency,misappropriating funds
+42,spouse,self-employed,"  1,000,000 ","  100,000 ",yearly,"  540,000 ",married,non medical,18,10,ulip,bancassurance,document tampering
+42,daughter,service,"  700,000 ","  70,000 ",yearly,"  1,020,000 ",widowed,non medical,11,10,ulip,bancassurance,document tampering
+36,father,business,"  2,510,000 ","  251,000 ",yearly,"  1,800,000 ",single,non medical,10,10,ulip,retail agency,document tampering
+60,wife,retired,"  2,000,000 ","  200,000 ",yearly,"  912,000 ",married,medical,5,10,ulip,retail agency,misappropriating funds
+52,son,service,"  1,050,000 ","  150,000 ",yearly,"  500,000 ",widowed,medical,5,10,ulip,bancassurance,document tampering
+42,mother,service,"  2,100,000 ","  300,000 ",yearly,"  4,800,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+36,wife,agriculturist,"  2,800,000 ","  400,000 ",yearly,"  1,000,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+28,father,service,"  2,800,000 ","  400,000 ",yearly,"  1,200,000 ",married,non medical,12,10,ulip,bancassurance,document tampering
+19,father,agriculturist,"  2,415,000 ","  345,000 ",yearly,"  1,500,000 ",single,non medical,12,10,ulip,bancassurance,document tampering
+42,spouse,self-employed,"  1,750,000 ","  250,000 ",yearly,"  681,600 ",married,non medical,12,10,ulip,bancassurance,document tampering
+20,son,business,"  300,000 ","  15,000 ",yearly,"  200,000 ",single,non medical,10,10,variable,bancassurance,misselling 
+54,husband,service,"  300,000 ","  15,000 ",yearly,"  1,000,000 ",married,non medical,10,10,variable,bancassurance,misselling 
+36,daughter,housewife,0 ,"  1,000,000 ",single,"  1,200,000 ",widowed,non medical,40,10,pension,bancassurance,signature forgery
+36,son,housewife,0 ,"  1,000,000 ",single,"  1,200,000 ",widowed,non medical,40,10,pension,bancassurance,signature forgery

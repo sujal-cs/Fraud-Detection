@@ -1,0 +1,141 @@
+assured_age,nominee_relation,occupation,policy sumassured,premium,premiumpaymentmode,annual income,holdermaritalstatus,indiv_requirementflag,policy term,policy payment term,product type,channel,fraud category
+67,wife,retired,0 ,"  400,000 ",yearly,"  1,300,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+47,son,service,0 ,"  500,000 ",yearly,"  6,000,000 ",married,non medical,15,10,pension,bancassurance,document tampering
+44,husband,housewife,0 ,"  500,000 ",yearly,"  1,500,000 ",married,non medical,10,10,pension,retail agency,document tampering
+13,spouse,business,"  1,000,000 ","  100,000 ",yearly,"  500,000 ",married,non medical,12,10,ulip,bancassurance,document tampering
+60,son,retired,"  999,000 ","  99,900 ",yearly,"  475,000 ",married,medical,10,3,ulip,retail agency,Other Fraud
+35,mother,service,"  600,000 ","  60,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+55,wife,service,"  500,000 ","  50,000 ",yearly,"  960,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+66,wife,retired,0 ,"  500,000 ",yearly,"  90,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+67,husband,retired,0 ,"  587,882 ",single,"  420,000 ",married,non medical,53,10,pension,mail and others,signature forgery
+27,mother,service,"  1,260,000 ","  153,375 ",yearly,"  1,500,000 ",married,non medical,15,10,traditional,retail agency,misappropriating funds
+43,father,profession,"  1,430,000 ","  104,500 ",yearly,"  1,000,000 ",married,non medical,15,10,traditional,retail agency,misselling 
+47,husband,service,0 ,"  100,000 ",yearly,"  900,000 ",married,non medical,10,10,ulip,retail agency,misappropriating funds
+38,husband,housewife,"  500,000 ","  50,000 ",yearly,"  420,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+18,father,student,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+57,husband,retired,0 ,"  70,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,misappropriating funds
+45,son,service,"  780,000 ","  135,850 ",yearly,"  3,500,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+61,wife,retired,0 ,"  1,000,000 ",yearly,"  3,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+28,father,service,"  2,200,000 ","  209,000 ",yearly,"  552,000 ",single,non medical,26,10,traditional,retail agency,Other Fraud
+45,wife,agriculturist,"  450,000 ","  35,256 ",quarterly,"  290,000 ",married,medical,15,10,traditional,retail agency,Other Fraud
+48,husband,housewife,"  250,000 ","  41,593 ",yearly,"  396,000 ",married,non medical,12,10,traditional,retail agency,signature forgery
+55,wife,service,"  500,000 ","  34,401 ",yearly,"  720,000 ",married,non medical,10,10,traditional,bancassurance,misrepresentation
+37,wife,business,"  840,000 ","  104,500 ",yearly,"  480,000 ",married,non medical,15,10,traditional,institutional alliance,Other Fraud
+37,wife,self-employed,"  275,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+54,son,service,"  500,000 ","  33,946 ",half yearly,"  672,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+50,husband,service,0 ,"  100,000 ",yearly,"  720,000 ",married,non medical,15,10,ulip,retail agency,misappropriating funds
+49,wife,service,"  500,000 ","  50,000 ",yearly,"  660,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+20,son,business,"  300,000 ","  15,000 ",yearly,"  200,000 ",single,non medical,10,10,variable,bancassurance,misselling 
+41,mother,service,"  1,270,500 ","  172,425 ",yearly,"  600,000 ",single,non medical,15,10,traditional,bancassurance,misrepresentation
+35,spouse,business,"  350,000 ","  5,000 ",yearly,"  420,000 ",married,non medical,15,10,traditional,retail agency,misrepresentation
+60,spouse,retired,0 ,"  1,000,000 ",yearly,"  4,032,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+18,mother,business,"  900,000 ","  10,461 ",yearly,"  500,000 ",single,non medical,35,10,traditional,retail agency,claims fraud
+44,wife,service,"  5,258,000 ","  478,000 ",yearly,"  9,600,000 ",married,medical,26,10,traditional,bancassurance,signature forgery
+68,mother,retired,0 ,"  389,698 ",single,"  2,000,000 ",married,non medical,52,10,pension,mail and others,signature forgery
+46,wife,defense retired,"  385,000 ","  51,125 ",yearly,"  420,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+47,spouse,agriculturist,"  228,000 ","  31,305 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+15,spouse,service,"  4,675,000 ","  444,125 ",yearly,"  6,000,000 ",married,non medical,36,10,traditional,retail agency,misrepresentation
+33,brother,service,"  100,000 ","  9,034 ",yearly,"  350,000 ",married,non medical,15,10,traditional,retail agency,Other Fraud
+46,wife,defense retired,"  385,000 ","  51,125 ",yearly,"  420,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+68,son,profession,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,retail agency,Other Fraud
+47,wife,self-employed,"  125,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,Other Fraud
+60,son,retired,"  999,000 ","  99,900 ",yearly,"  475,000 ",married,medical,10,3,ulip,retail agency,Other Fraud
+39,husband,housewife,"  2,740,000 ","  195,779 ",yearly,"  7,500,000 ",married,non medical,15,10,traditional,retail agency,misselling 
+42,wife,business,"  1,650,000 ","  159,885 ",half yearly,"  500,000 ",married,medical,36,10,traditional,retail agency,Other Fraud
+50,son,business,"  1,650,000 ","  153,375 ",yearly,"  624,000 ",married,non medical,26,10,traditional,institutional alliance,signature forgery
+42,son,business,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,medical,15,10,traditional,retail agency,claims fraud
+60,wife,retired,0 ,"  3,000,000 ",yearly,"  6,500,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+47,wife,self-employed,"  125,000 ","  5,000 ",yearly,"  240,000 ",married,non medical,10,10,traditional,retail agency,Other Fraud
+36,son,housewife,0 ,"  1,000,000 ",single,"  1,200,000 ",widowed,non medical,40,10,pension,bancassurance,signature forgery
+39,wife,agriculturist,"  400,000 ","  50,974 ",yearly,"  240,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+56,wife,service,"  530,000 ","  29,343 ",yearly,"  840,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+28,mother,service,"  600,000 ","  60,000 ",monthly,"  310,000 ",single,non medical,10,10,ulip,retail agency,misappropriating funds
+60,wife,service,"  550,000 ","  49,101 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+60,wife,retired,"  1,000,000 ","  100,000 ",yearly,"  300,000 ",married,medical,5,10,variable,bancassurance,claims fraud
+49,spouse,service,"  75,000 ","  8,005 ",yearly,"  200,000 ",married,non medical,11,10,traditional,bancassurance,claims fraud
+47,wife,service,"  2,000,000 ","  200,000 ",yearly,"  840,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+57,husband,retired,0 ,"  70,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,misappropriating funds
+46,daughter,business,0 ,"  1,000,000 ",yearly,"  5,400,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+60,son,retired,"  999,000 ","  99,900 ",yearly,"  475,000 ",married,medical,10,3,ulip,retail agency,Other Fraud
+33,mother,service,"  500,000 ","  50,000 ",yearly,"  650,000 ",single,non medical,30,10,ulip,retail agency,misappropriating funds
+29,wife,agriculturist,"  475,000 ","  5,000 ",yearly,"  400,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+52,spouse,service,"  300,000 ","  30,000 ",yearly,"  1,020,000 ",married,medical,12,10,ulip,bancassurance,misrepresentation
+60,wife,retired,"  1,000,000 ","  100,000 ",yearly,"  300,000 ",married,medical,5,10,variable,bancassurance,claims fraud
+33,brother,service,"  100,000 ","  9,034 ",yearly,"  350,000 ",married,non medical,15,10,traditional,retail agency,Other Fraud
+42,mother,service,"  2,100,000 ","  300,000 ",yearly,"  4,800,000 ",single,non medical,10,10,ulip,bancassurance,document tampering
+54,wife,service,0 ,"  300,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+42,spouse,agriculturist,"  175,000 ","  5,000 ",yearly,"  300,000 ",married,non medical,10,10,traditional,retail agency,claims fraud
+60,spouse,service,0 ,"  500,000 ",yearly,"  24,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+60,husband,retired,0 ,"  100,000 ",yearly,"  540,000 ",married,non medical,10,10,ulip,bancassurance,misappropriating funds
+44,wife,service,"  300,000 ","  30,000 ",yearly,"  624,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+50,son,business,"  1,650,000 ","  153,375 ",yearly,"  624,000 ",married,non medical,26,10,traditional,institutional alliance,signature forgery
+12,spouse,business,"  236,000 ","  33,410 ",yearly,"  504,000 ",married,non medical,12,10,traditional,institutional alliance,misselling 
+25,mother,service,"  2,500,000 ","  250,000 ",yearly,"  1,500,000 ",single,non medical,12,10,ulip,institutional alliance,document tampering
+58,wife,retired,0 ,"  400,000 ",yearly,"  1,580,000 ",married,non medical,10,10,pension,retail agency,misselling 
+47,wife,self-employed,"  900,000 ","  12,659 ",yearly,"  525,000 ",married,medical,23,10,traditional,retail agency,claims fraud
+45,wife,agriculturist,"  450,000 ","  35,256 ",quarterly,"  290,000 ",married,medical,15,10,traditional,retail agency,Other Fraud
+41,spouse,service,"  4,070,000 ","  690,489 ",yearly,"  2,400,000 ",married,medical,7,10,traditional,bancassurance,signature forgery
+53,wife,business,0 ,"  600,000 ",yearly,"  2,000,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+33,wife,agriculturist,"  1,000,000 ","  52,647 ",yearly,"  400,000 ",married,medical,20,10,traditional,retail agency,claims fraud
+47,husband,service,0 ,"  100,000 ",yearly,"  900,000 ",married,non medical,10,10,ulip,retail agency,misappropriating funds
+20,mother,student,"  300,000 ","  30,675 ",yearly,"  300,000 ",single,non medical,80,10,traditional,retail agency,document tampering
+57,spouse,business,0 ,"  600,000 ",yearly,"  2,000,000 ",married,non medical,10,10,pension,bancassurance,document tampering
+43,wife,service,"  600,000 ","  19,700 ",yearly,"  840,000 ",married,non medical,10,10,traditional,bancassurance,misselling 
+49,husband,housewife,"  500,000 ","  38,581 ",yearly,"  420,000 ",married,medical,15,10,traditional,retail agency,claims fraud
+28,mother,business,"  475,000 ","  5,000 ",yearly,"  225,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+68,son,profession,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,retail agency,Other Fraud
+42,spouse,housewife,"  1,000,000 ","  100,000 ",yearly,"  300,000 ",married,non medical,15,10,ulip,retail agency,document tampering
+43,father,profession,"  1,250,000 ","  125,000 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,retail agency,misselling 
+13,spouse,housewife,"  5,225,000 ","  485,688 ",yearly,"  1,300,000 ",married,non medical,36,10,traditional,bancassurance,document tampering
+76,wife,retired,0 ,"  223,903 ",single,"  600,000 ",married,non medical,44,10,pension,mail and others,signature forgery
+30,sister,service,"  2,520,000 ","  418,000 ",yearly,"  1,300,000 ",married,non medical,12,10,traditional,bancassurance,document tampering
+36,daughter,housewife,0 ,"  1,000,000 ",single,"  1,200,000 ",widowed,non medical,40,10,pension,bancassurance,signature forgery
+47,wife,self-employed,"  900,000 ","  12,659 ",yearly,"  525,000 ",married,medical,23,10,traditional,retail agency,claims fraud
+61,spouse,retired,0 ,"  200,000 ",yearly,"  600,000 ",married,non medical,15,10,ulip,retail agency,Other Fraud
+28,father,service,"  2,200,000 ","  209,000 ",yearly,"  552,000 ",single,non medical,26,10,traditional,retail agency,Other Fraud
+36,husband,service,"  1,000,000 ","  100,000 ",yearly,"  1,800,000 ",married,non medical,12,10,ulip,retail agency,signature forgery
+53,son,family pension,0 ,"  150,000 ",yearly,"  500,000 ",widowed,non medical,10,10,ulip,retail agency,misappropriating funds
+60,son,retired,0 ,"  320,000 ",yearly,"  1,200,000 ",widowed,non medical,10,10,ulip,retail agency,misappropriating funds
+43,wife,service,"  600,000 ","  19,700 ",yearly,"  840,000 ",married,non medical,10,10,traditional,bancassurance,misselling 
+37,mother,retired,"  240,000 ","  51,125 ",yearly,"  240,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+29,wife,agriculturist,"  475,000 ","  5,000 ",yearly,"  400,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+57,wife,service,"  4,200,000 ","  600,000 ",yearly,"  1,800,000 ",married,non medical,10,10,ulip,bancassurance,misrepresentation
+43,father,profession,"  1,430,000 ","  104,500 ",yearly,"  1,000,000 ",married,non medical,15,10,traditional,retail agency,misselling 
+59,husband,business,"  960,000 ","  209,000 ",yearly,"  730,000 ",married,medical,12,10,traditional,bancassurance,signature forgery
+49,wife,agriculturist,"  550,000 ","  52,250 ",yearly,"  504,000 ",married,non medical,26,10,traditional,bancassurance,misrepresentation
+42,husband,business,0 ,"  1,000,000 ",yearly,"  4,800,000 ",married,non medical,10,10,pension,bancassurance,misselling 
+47,wife,self-employed,"  900,000 ","  12,659 ",yearly,"  525,000 ",married,medical,23,10,traditional,retail agency,claims fraud
+46,husband,service,"  1,357,000 ","  188,190 ",yearly,"  5,000,000 ",married,non medical,8,10,traditional,institutional alliance,signature forgery
+31,spouse,service,"  550,000 ","  88,270 ",yearly,"  300,000 ",married,non medical,7,10,traditional,bancassurance,signature forgery
+57,spouse,retired,0 ,"  300,000 ",yearly,"  800,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+43,father,profession,"  175,000 ","  5,000 ",yearly,"  1,000,000 ",married,non medical,10,10,traditional,retail agency,misselling 
+39,husband,housewife,"  2,740,000 ","  195,779 ",yearly,"  7,500,000 ",married,non medical,15,10,traditional,retail agency,misselling 
+33,wife,agriculturist,"  1,000,000 ","  52,647 ",yearly,"  400,000 ",married,medical,20,10,traditional,retail agency,claims fraud
+42,son,business,"  200,000 ","  5,000 ",yearly,"  300,000 ",married,medical,15,10,traditional,retail agency,claims fraud
+42,father,service,0 ,"  800,000 ",yearly,"  5,000,000 ",married,non medical,10,10,pension,bancassurance,signature forgery
+45,spouse,business,"  200,000 ","  5,000 ",yearly,"  190,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+60,spouse,self-employed,"  550,000 ","  52,250 ",yearly,"  480,000 ",married,medical,26,10,traditional,retail agency,misrepresentation
+70,son,profession,0 ,"  3,000,000 ",yearly,"  3,600,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+42,spouse,service,"  4,200,000 ","  600,000 ",yearly,"  1,500,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+39,wife,agriculturist,"  400,000 ","  50,974 ",yearly,"  240,000 ",married,non medical,15,10,traditional,bancassurance,misappropriating funds
+30,sister,service,"  3,360,000 ","  418,000 ",yearly,"  1,200,000 ",single,non medical,15,10,traditional,bancassurance,signature forgery
+60,wife,retired,0 ,"  3,000,000 ",yearly,"  6,500,000 ",married,non medical,10,10,ulip,bancassurance,signature forgery
+68,son,profession,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,retail agency,Other Fraud
+44,son,self-employed,"  500,000 ","  50,000 ",yearly,"  300,000 ",married,non medical,18,10,ulip,retail agency,misappropriating funds
+68,son,profession,0 ,"  500,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,retail agency,Other Fraud
+37,wife,business,"  840,000 ","  104,500 ",yearly,"  480,000 ",married,non medical,15,10,traditional,institutional alliance,Other Fraud
+54,wife,service,0 ,"  300,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
+28,father,service,"  2,200,000 ","  209,000 ",yearly,"  552,000 ",single,non medical,26,10,traditional,retail agency,Other Fraud
+44,wife,agriculturist,"  4,200,000 ","  600,000 ",yearly,"  2,112,000 ",married,non medical,10,10,ulip,bancassurance,document tampering
+47,spouse,agriculturist,"  228,000 ","  31,305 ",yearly,"  250,000 ",married,non medical,15,10,traditional,retail agency,claims fraud
+29,father,agriculturist,"  475,000 ","  5,000 ",yearly,"  240,000 ",single,non medical,15,10,traditional,retail agency,claims fraud
+35,mother,service,"  600,000 ","  60,000 ",yearly,"  540,000 ",married,non medical,12,10,ulip,bancassurance,misappropriating funds
+42,spouse,service,"  5,500,000 ","  522,500 ",yearly,"  4,200,000 ",married,non medical,36,10,traditional,retail agency,document tampering
+51,spouse,service,"  500,000 ","  50,000 ",yearly,"  600,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+43,father,profession,"  1,250,000 ","  125,000 ",yearly,"  1,000,000 ",married,non medical,12,10,ulip,retail agency,misselling 
+42,father,service,0 ,"  800,000 ",yearly,"  5,000,000 ",married,non medical,10,10,pension,bancassurance,signature forgery
+53,wife,service,"  400,000 ","  40,000 ",yearly,"  720,000 ",married,non medical,12,10,ulip,bancassurance,misrepresentation
+51,wife,service,"  500,000 ","  31,799 ",yearly,"  600,000 ",married,medical,10,10,traditional,bancassurance,misrepresentation
+48,wife,retired,0 ,"  2,000,000 ",single,"  600,000 ",married,non medical,72,10,pension,bancassurance,misselling 
+60,wife,retired,"  1,100,000 ","  104,500 ",yearly,"  600,000 ",married,medical,26,10,traditional,bancassurance,misrepresentation
+54,wife,service,0 ,"  300,000 ",yearly,"  3,000,000 ",married,non medical,10,10,ulip,bancassurance,misselling 
